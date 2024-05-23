@@ -1,0 +1,40 @@
+..generic:
+  git2rdata: 0.4.0
+  optimize: yes
+  NA string: NA
+  hash: 69c173c7491dcea6a423c09efec0a6c28dcc52c3
+  data_hash: d069fe73c265dcda67a27ad78bca0dc86a6888f1
+geo:
+  class: factor
+  labels:
+  - US
+  - Eurozone
+  - UK
+  - Japan
+  index:
+  - 1
+  - 2
+  - 3
+  - 4
+  ordered: no
+Month:
+  class: Date
+  origin: '1970-01-01'
+Central estimate:
+  class: character
+bottom:
+  class: character
+lower_band:
+  class: character
+central_band:
+  class: character
+upper_band:
+  class: character
+Long run:
+  class: character
+commentary_central:
+  class: character
+commentary_higher:
+  class: character
+commentary_lower:
+  class: character
