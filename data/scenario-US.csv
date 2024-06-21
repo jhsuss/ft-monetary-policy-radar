@@ -1,10 +1,10 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2024-07-01,5.375,5,0.25,0.25,0.25,,The Fed is unlikely to cut in July as it waits for a few months of good inflation data before considering a cut.,"While the possibility of a raise was discussed in the May FOMC minutes, the consensus is still that this is very unlikely. The Fed would have to see a sharp re-acceleration of inflation for this to become likely.","Very sharp fall in employment, concurrent with rapid disinflation in both June and July CPI."
+US,2024-07-01,5.375,5,0.25,0.25,0.25,,The Fed holds rates as it waits for further progress on disinflation.,"Weak growth and persistently low generates few outside options for savings, helping the longer-term interest rate to fall to low levels.",A sudden and sharp weakening of the labour market forces the Fed into an emergency cut.
 US,2024-08-01,,4.875,0.25,0.25,0.25,,,,
-US,2024-09-01,5.125,4.75,0.25,0.25,0.25,,Good inflation data continues,Re-acceleration of inflation and tightening of labour market.,"Very sharp fall in employment, concurrent with rapid disinflation in both June and July CPI."
+US,2024-09-01,5.125,4.75,0.25,0.25,0.25,,The Fed starts the cutting cycle after seeing further consistent evidence of gradual disinflation.,The Fed decides to hold rates after progress on disinflation stalls.,"A sudden and significant weakening of the labour market, or evidence of a dramatic fall in inflation, forces the Fed into a second consecutive cut."
 US,2024-10-01,,4.66666666666667,0.25,0.25,0.333333333333333,,,,
 US,2024-11-01,,4.58333333333333,0.25,0.25,0.416666666666667,,,,
-US,2024-12-01,4.875,4.5,0.25,0.25,0.5,,"Disinflation does kick in, but with a slight lag","US private demand remains resilient, labour market stays tight , policy error",Cliff-edge transmission leading to suddenly weaker demand and rapid disinflation; Global disinflation from supply-side shock
+US,2024-12-01,4.875,4.5,0.25,0.25,0.5,,"The Fed, satisfied with yet more progress on disinflation in the autumn, delivers a second rate cut before year end.",A lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,"A sudden and sharp weakening of the labour market or a disinflationary economic shock takes place, prompting the Fed to deliver multiple cuts."
 US,2025-01-01,,4.375,0.291666666666667,0.25,0.5,,,,
 US,2025-02-01,,4.25,0.333333333333333,0.25,0.5,,,,
 US,2025-03-01,,4.125,0.375,0.25,0.5,,,,
@@ -16,13 +16,13 @@ US,2025-08-01,,3.41666666666667,0.583333333333333,0.333333333333333,0.6666666666
 US,2025-09-01,,3.25,0.625,0.375,0.75,,,,
 US,2025-10-01,,3.08333333333333,0.666666666666667,0.416666666666667,0.833333333333333,,,,
 US,2025-11-01,,2.91666666666667,0.708333333333333,0.458333333333333,0.916666666666667,,,,
-US,2025-12-01,3.75,2.75,0.75,0.5,1,,"The Fed continues its gradual accommodation of monetary policy through the early days of the new administration, seeking to achieve a neutral interest rate by year end. It says policy is no longer significantly restrictive.","Concerns about remaining inflationary pressure, a new administration’s loose fiscal policy and international supply shocks prevent the Fed from removing its restrictive stance of policy.",Interest rates are cut rapidly as the economy continues to weaken forcing the Fed to move towards a stimulative position again.
+US,2025-12-01,3.75,2.75,0.75,0.5,1,,The Fed continues gradual policy normalisation as the economy slows,"Inflation remains stuck above target or deficit spending remains elevated, forcing the Fed to react by keeping policy tighter",The Fed has to deliver more cuts due to a rapidly weakening economy
 US,2026-01-01,,2.625,0.791666666666667,0.5,1.08333333333333,,,,
 US,2026-02-01,,2.5,0.833333333333333,0.5,1.16666666666667,,,,
 US,2026-03-01,,2.375,0.875,0.5,1.25,,,,
 US,2026-04-01,,2.25,0.916666666666667,0.5,1.33333333333333,,,,
 US,2026-05-01,,2.125,0.958333333333333,0.5,1.41666666666667,,,,
-US,2026-06-01,3.25,2,1,0.5,1.5,3.25,The Fed hails its achievement of a neutral rate of interest in a relatively stable US economic environment,"Higher interest rates are required as a result of excess demand, supply shocks and evidence that the neutral rate was higher than previously thought",Persistent weakness in the economy forces the Fed into a looser stance amid accusations it held rates too high for too long
+US,2026-06-01,3.25,2,1,0.5,1.5,3.25,,,
 US,2026-07-01,,,,,,,,,
 US,2026-08-01,,,,,,,,,
 US,2026-09-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate. Strong growth because plentiful potential alternative investments allows savers to demand higher returns and weak public finances because government needs to attract more savings.,"Weak growth and persistently low generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
