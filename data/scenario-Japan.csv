@@ -1,27 +1,27 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Japan,2024-07-01,0.05,-0.1,0,0.1,0.15,,The BoJ feels it has enough evidence on a positive wage price dynamic to increase rate and end negative rates but wants to tighten monetary policy slowly,BoJ defends value of the yen with a rate rise despite continued weakness of its economy on fears of sustained high inflation,An unlikely reaction to the weakness in the Japanese economy
+Japan,2024-07-01,0.05,-0.1,0,0.1,0.15,,The BoJ feels it has enough evidence on a positive wage price dynamic to increase rate and end negative rates but wants to tighten monetary policy slowly,BoJ defends value of the yen with a rate rise despite continued weakness of its economy,An unlikely reaction to the weakness in the Japanese economy
 Japan,2024-08-01,,-0.1,0.05,0.125,0.2,,,,
 Japan,2024-09-01,0.175,-0.1,0.1,0.15,0.25,,"Not firm view, by end year",The BoJ worries that prolonged yen weakness will push inflation up too fast and requires a rate rise to stabilise the currency,Sudden economic weakness forces the BoJ to reverse course
 Japan,2024-10-01,,-0.1,0.1,0.15,0.25,,,,
 Japan,2024-11-01,,-0.1,0.1,0.15,0.25,,,,
 Japan,2024-12-01,0.175,-0.1,0.1,0.15,0.25,,BoJ feels it is making progress normalising monetary policy amid a still relatively weak economy and inflation expectations converging on 2 per cent,Ongoing strong wage demands and an economic rebound embeds inflation into expectations,"Signs of deflation return, significantly weaker expectations at the next round"
-Japan,2025-01-01,,-0.108333333333333,0.125,0.166666666666667,0.25,,,,
-Japan,2025-02-01,,-0.116666666666667,0.15,0.183333333333333,0.25,,,,
-Japan,2025-03-01,,-0.125,0.175,0.2,0.25,,,,
-Japan,2025-04-01,,-0.133333333333333,0.2,0.216666666666667,0.25,,,,
-Japan,2025-05-01,,-0.141666666666667,0.225,0.233333333333333,0.25,,,,
-Japan,2025-06-01,0.375,-0.15,0.25,0.25,0.25,,BoJ feels it is making progress normalising monetary policy amid a still relatively weak economy and inflation expectations converging on 2 per cent,Ongoing strong wage demands and an economic rebound embeds inflation into expectations,"Signs of deflation return, significantly weaker expectations at the next round"
-Japan,2025-07-01,,-0.15,0.25,0.25,0.25,,,,
-Japan,2025-08-01,,-0.15,0.25,0.25,0.25,,,,
-Japan,2025-09-01,,-0.15,0.25,0.25,0.25,,,,
-Japan,2025-10-01,,-0.15,0.25,0.25,0.25,,,,
-Japan,2025-11-01,,-0.15,0.25,0.25,0.25,,,,
-Japan,2025-12-01,0.375,-0.15,0.25,0.25,0.25,,The BoJ delivers a cautious tightening but will still effectively zero interest rates. The tightening has been more symbolic than real or significant,Japan’s economy reaches lift off with positive wage expectations and a decisive break with the past,The Japanese economy retains the need for negative interest rates with any move perceived to be too risky
-Japan,2026-01-01,,-0.141666666666667,0.291666666666667,0.25,0.333333333333333,,,,
-Japan,2026-02-01,,-0.133333333333333,0.333333333333333,0.25,0.416666666666667,,,,
-Japan,2026-03-01,,-0.125,0.375,0.25,0.5,,,,
-Japan,2026-04-01,,-0.116666666666667,0.416666666666667,0.25,0.583333333333333,,,,
-Japan,2026-05-01,,-0.108333333333333,0.458333333333333,0.25,0.666666666666667,,,,
+Japan,2025-01-01,,-0.1,0.15,0.158333333333333,0.233333333333333,,,,
+Japan,2025-02-01,,-0.1,0.2,0.166666666666667,0.216666666666667,,,,
+Japan,2025-03-01,,-0.1,0.25,0.175,0.2,,,,
+Japan,2025-04-01,,-0.1,0.3,0.183333333333333,0.183333333333333,,,,
+Japan,2025-05-01,,-0.1,0.35,0.191666666666667,0.166666666666667,,,,
+Japan,2025-06-01,0.5,-0.1,0.4,0.2,0.15,,BoJ feels it is making progress normalising monetary policy amid a still relatively weak economy and inflation expectations converging on 2 per cent,Ongoing strong wage demands and an economic rebound embeds inflation into expectations,"Signs of deflation return, significantly weaker expectations at the next round"
+Japan,2025-07-01,,-0.1,0.4,0.2,0.233333333333333,,,,
+Japan,2025-08-01,,-0.1,0.4,0.2,0.316666666666667,,,,
+Japan,2025-09-01,,-0.1,0.4,0.2,0.4,,,,
+Japan,2025-10-01,,-0.1,0.4,0.2,0.483333333333333,,,,
+Japan,2025-11-01,,-0.1,0.4,0.2,0.566666666666667,,,,
+Japan,2025-12-01,0.5,-0.1,0.4,0.2,0.65,,The BoJ delivers a cautious tightening but will still effectively zero interest rates. The tightening has been more symbolic than real or significant,Japan’s economy reaches lift off with positive wage expectations and a decisive break with the past,The Japanese economy retains the need for negative interest rates with any move perceived to be too risky
+Japan,2026-01-01,,-0.1,0.416666666666667,0.208333333333333,0.666666666666667,,,,
+Japan,2026-02-01,,-0.1,0.433333333333333,0.216666666666667,0.683333333333333,,,,
+Japan,2026-03-01,,-0.1,0.45,0.225,0.7,,,,
+Japan,2026-04-01,,-0.1,0.466666666666667,0.233333333333333,0.716666666666667,,,,
+Japan,2026-05-01,,-0.1,0.483333333333333,0.241666666666667,0.733333333333333,,,,
 Japan,2026-06-01,0.625,-0.1,0.5,0.25,0.75,0.625,The BoJ delivers a cautious tightening but will still effectively zero interest rates. The tightening has been more symbolic than real or significant,Japan’s economy reaches lift off with positive wage expectations and a decisive break with the past,The Japanese economy retains the need for negative interest rates with any move perceived to be too risky
 Japan,2026-07-01,,,,,,,,,
 Japan,2026-08-01,,,,,,,,,
