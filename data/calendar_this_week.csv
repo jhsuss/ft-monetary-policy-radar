@@ -1,10 +1,4 @@
 Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period_3,Period_4,Period_5,Period_6,Period_7,Period_8,Period_9,Period_10,Period_11,Period_12,Period_13
-2024-07-02,10:00 (BST),ECB,HICP flash estimate (Jun 2024),2.49937352632141,,Data,5.50116937330197,5.15381870065386,5.08314119950724,4.27134934057793,2.85959322559985,2.44713226854952,2.93248859090317,2.73906496012541,2.55114813548292,2.42996101415168,2.38237158061472,2.57176087310371,2.49937352632141
-2024-07-02,10:00 (BST),ECB,Unemployment rate,6.447317,,Data,6.506845,6.486199,6.552344,6.523817,6.561668,6.56391,6.535892,6.513557,6.534013,6.540878,6.484063,6.427161,6.447317
-2024-07-02,14:30 (BST),Fed,Discussion -- Chair Jerome H. Powell -- Policy Panel Discussion,,,Comms,,,,,,,,,,,,,
-2024-07-02,14:30 (BST),ECB,"Christine Lagarde -- Participation by Ms Lagarde in policy panel at ECB Forum on Central Banking 2024 ""Monetary policy in an era of transformation"" in Sintra, Portugal ",,,Comms,,,,,,,,,,,,,
-2024-07-02,15:00 (BST),Fed,Job Openings and Labor Turnover Survey (May 2024) --  Opening To Unemployed,1.22424424725523,,Data,1.52215138139611,1.52159413039853,1.49136178861789,1.47602523659306,1.46636206081613,1.34797454601894,1.42622165442351,1.41815571155073,1.42847811887655,1.36466398265717,1.29958002799813,1.219808995687,1.22424424725523
-2024-07-02,15:00 (BST),Fed,Job Openings and Labor Turnover Survey (May 2024) --  Quits,2.2,,Data,2.6,2.4,2.3,2.3,2.3,2.3,2.2,2.2,2.2,2.2,2.2,2.2,2.2
 2024-07-03,06:00 (BST),BoJ,Output Gap and Potential Growth Rate,,,Data,,,,,,,,,,,,,
 2024-07-03,15:15 (BST),ECB,"Christine Lagarde -- Closing remarks by Ms Lagarde at ECB Forum on Central Banking 2024 ""Monetary policy in an era of transformation"" in Sintra, Portugal ",,,Comms,,,,,,,,,,,,,
 2024-07-03,19:00 (BST),Fed,FOMC minutes,,,Meeting,,,,,,,,,,,,,
@@ -20,7 +14,6 @@ Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period
 2024-07-08,10:00 (BST),BoE,Text from a speech given by James Benford at the FCA Data innovation for Future of Regulation (DiFoR) conference on 5 July,,,Comms,,,,,,,,,,,,,
 2024-07-08,17:15 (BST),BoE,Jonathan Haskel: Speech at ESCoE/Kings College London ‘What’s done and what’s to come’,,,Comms,,,,,,,,,,,,,
 2024-07-09,00:50 (BST),BoJ,Money Stock (June),,,Data,,,,,,,,,,,,,
-2024-07-09,09:05 (BST),BoE,"Victoria Cleland: Speech Financial Stability Board, Regulatory Oversight Committee, and Global LEI Foundation Conference on the Legal Entity Identifier",,,Comms,,,,,,,,,,,,,
 2024-07-10,00:50 (BST),BoJ,Corporate Goods Price Index (June),,,Data,,,,,,,,,,,,,
 2024-07-10,14:30 (BST),BoE,Huw Pill: Speech at Asia House,,,Comms,,,,,,,,,,,,,
 2024-07-11,07:00 (BST),BoE,GDP monthly estimate (May 2024),,,Data,,,,,,,,,,,,,
@@ -28,3 +21,7 @@ Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period
 2024-07-11,13:30 (BST),Fed,Real Earnings (June 2024),,,Data,,,,,,,,,,,,,
 2024-07-12,05:30 (BST),BoJ,98th Opinion Survey,,,Data,,,,,,,,,,,,,
 2024-07-12,13:30 (BST),Fed,Producer Price Index (June 2024),,,Data,,,,,,,,,,,,,
+2024-07-17,07:00 (BST),Fed,Beige Book,,,Data,,,,,,,,,,,,,
+2024-07-17,07:00 (BST),BoE,Consumer price inflation (June 2024),,,Data,,,,,,,,,,,,,
+2024-07-17,07:00 (BST),BoE,"Producer price inflation (June 2024, April to June 2024)",,,Data,,,,,,,,,,,,,
+2024-07-17,10:00 (BST),ECB,HICP (Jun 2024),2.49937352632141,,Data,5.50116937330197,5.15381870065386,5.08314119950724,4.27134934057793,2.85959322559985,2.44713226854952,2.93248859090317,2.73906496012541,2.55114813548292,2.42996101415168,2.38237158061472,2.57176087310371,2.49937352632141
