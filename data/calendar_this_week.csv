@@ -1,15 +1,12 @@
 Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period_3,Period_4,Period_5,Period_6,Period_7,Period_8,Period_9,Period_10,Period_11,Period_12,Period_13
-2024-07-04,10:00 (BST),ECB,"Philip R. Lane -- Master in Economics and Finance (MEF) 2024 Lecture by Mr Lane at the University of Naples Federico II in Naples, Italy ",,,Comms,,,,,,,,,,,,,
-2024-07-04,10:35 (BST),ECB,"Elizabeth Mccaul -- Participation by Ms McCaul in 28th Annual Economist Government Roundtable in Athens, Greece ",,,Comms,,,,,,,,,,,,,
-2024-07-04,16:15 (BST),ECB,"Piero Cipollone -- Keynote speech by Mr Cipollone at 15th edition of the National Statistics Conference in Rome, Italy",,,Comms,,,,,,,,,,,,,
-2024-07-05,06:00 (BST),BoJ,Consumption Activity Index,,,Data,,,,,,,,,,,,,
 2024-07-05,13:15 (BST),ECB,"Frank Elderson -- Introductory remarks followed by Q&A by Mr Elderson in panel ""Embedding data culture in supervision"" at Data Innovation for Future of Regulation (DIFoR) Conference organised by the Financial Conduct Authority in London, UK",,,Comms,,,,,,,,,,,,,
 2024-07-05,13:30 (BST),Fed,Employment Situation (June 2024),272000,,Data,303000,240000,184000,210000,246000,165000,182000,290000,256000,236000,310000,165000,272000
-2024-07-05,18:15 (BST),ECB,"Christine Lagarde -- On-stage conversation with Ms Lagarde and Prof. Jean Tirole  at 24th edition of Les Rencontres Economiques d'Aix-en-Provence 2024 ""Relier les mondes"" in Aix-en-Provence, France ",,,Comms,,,,,,,,,,,,,
+2024-07-05,18:15 (BST),ECB,"Christine Lagarde -- On-stage conversation between Ms Lagarde and Prof. Jean Tirole  at 24th edition of Les Rencontres Economiques d'Aix-en-Provence 2024 ""Relier les mondes"" in Aix-en-Provence, France ",,,Comms,,,,,,,,,,,,,
 2024-07-08,00:30 (BST),BoJ,Average cash earnings -- provisional (May),,,Data,,,,,,,,,,,,,
 2024-07-08,10:00 (BST),BoE,Text from a speech given by James Benford at the FCA Data innovation for Future of Regulation (DiFoR) conference on 5 July,,,Comms,,,,,,,,,,,,,
 2024-07-08,17:15 (BST),BoE,Jonathan Haskel: Speech at ESCoE/Kings College London ‘What’s done and what’s to come’,,,Comms,,,,,,,,,,,,,
 2024-07-09,00:50 (BST),BoJ,Money Stock (June),,,Data,,,,,,,,,,,,,
+2024-07-09,10:00 (BST),ECB,Piero Cipollone -- Video message by Mr Cipollone at digital euro event organised by the Central Bank of Cyprus,,,Comms,,,,,,,,,,,,,
 2024-07-10,00:50 (BST),BoJ,Corporate Goods Price Index (June),,,Data,,,,,,,,,,,,,
 2024-07-10,14:30 (BST),BoE,Huw Pill: Speech at Asia House,,,Comms,,,,,,,,,,,,,
 2024-07-11,07:00 (BST),BoE,GDP monthly estimate (May 2024),,,Data,,,,,,,,,,,,,
@@ -26,3 +23,5 @@ Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period
 2024-07-18,07:00 (BST),BoE,Unemployment rate,,,Data,,,,,,,,,,,,,
 2024-07-18,07:00 (BST),BoE,Average weekly earnings,,,Data,,,,,,,,,,,,,
 2024-07-18,13:15 (BST),ECB,Monetary policy meeting in Frankfurt,,,Meeting,,,,,,,,,,,,,
+2024-07-19,06:00 (BST),BoJ,CPI (Jun),,,Data,,,,,,,,,,,,,
+2024-07-19,07:00 (BST),BoE,Retail sales (June 2024),,,Data,,,,,,,,,,,,,
