@@ -1,7 +1,4 @@
 Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period_3,Period_4,Period_5,Period_6,Period_7,Period_8,Period_9,Period_10,Period_11,Period_12,Period_13
-2024-07-08,00:30 (BST),BoJ,Average cash earnings -- provisional (May),,,Data,,,,,,,,,,,,,
-2024-07-08,10:00 (BST),BoE,Text from a speech given by James Benford at the FCA Data innovation for Future of Regulation (DiFoR) conference on 5 July,,,Comms,,,,,,,,,,,,,
-2024-07-08,12:00 (BST),BoE,Jonathan Haskel: Speech at ESCoE/Kings College London ‘What’s done and what’s to come’,,,Comms,,,,,,,,,,,,,
 2024-07-09,00:50 (BST),BoJ,Money Stock (June),,,Data,,,,,,,,,,,,,
 2024-07-09,06:30 (BST),Fed,Michelle W. Bowman -- Promoting an Inclusive Financial System,,,Comms,,,,,,,,,,,,,
 2024-07-09,10:00 (BST),ECB,Piero Cipollone -- Video message by Mr Cipollone at digital euro event organised by the Central Bank of Cyprus,,,Comms,,,,,,,,,,,,,
@@ -29,3 +26,5 @@ Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period
 2024-07-18,13:15 (BST),ECB,Monetary policy meeting in Frankfurt,,,Meeting,,,,,,,,,,,,,
 2024-07-19,06:00 (BST),BoJ,CPI (Jun),,,Data,,,,,,,,,,,,,
 2024-07-19,07:00 (BST),BoE,Retail sales (June 2024),,,Data,,,,,,,,,,,,,
+2024-07-23,06:00 (BST),BoJ,Measures of Underlying Inflation,,,Data,,,,,,,,,,,,,
+2024-07-23,06:00 (BST),BoJ,Developments in Real Exports and Real Imports (Details),,,Data,,,,,,,,,,,,,
