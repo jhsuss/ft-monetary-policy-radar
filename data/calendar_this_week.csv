@@ -1,5 +1,4 @@
 Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period_3,Period_4,Period_5,Period_6,Period_7,Period_8,Period_9,Period_10,Period_11,Period_12,Period_13,date2
-2024-07-15,17:30 (BST),Fed,"Discussion -- Chair Jerome H. Powell -- Conversation with David M. Rubenstein, Chairman of the Economic Club of Washington, D.C.",,,Comms,,,,,,,,,,,,,,2024-07-15
 2024-07-16,19:45 (BST),Fed,Adriana D. Kugler -- Challenges Facing Economic Measurement and Creative Solutions,,,Comms,,,,,,,,,,,,,,2024-07-16
 2024-07-17,07:00 (BST),BoE,Consumer price inflation (June 2024),,,Data,,,,,,,,,,,,,,2024-07-17
 2024-07-17,07:00 (BST),BoE,"Producer price inflation (June 2024, April to June 2024)",,,Data,,,,,,,,,,,,,,2024-07-17
@@ -24,3 +23,6 @@ Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period
 2024-07-25,13:30 (BST),Fed,"Gross Domestic Product, 2nd Quarter 2024 (Advance Estimate)",,,Data,,,,,,,,,,,,,,2024-07-25
 2024-07-26,09:00 (BST),ECB,Consumer Expectations Survey,,,Data,,,,,,,,,,,,,,2024-07-26
 2024-07-26,13:30 (BST),Fed,PCE Price Index,2.56290618230296,,Data,3.96202553574831,3.19842053307009,3.31470848246089,3.3475917529301,3.36958930732905,2.94207498175523,2.70270270270271,2.6193936526177,2.48296375965247,2.49694269009767,2.72065590228394,2.67988956819831,2.56290618230296,2024-07-26
+2024-07-30,00:30 (BST),BoJ,Unemployment rate (June),,,Data,,,,,,,,,,,,,,2024-07-30
+2024-07-30,15:00 (BST),Fed,Job Openings and Labor Turnover Survey (June 2024) --  Opening To Unemployed,1.22424424725523,,Data,1.52215138139611,1.52159413039853,1.49136178861789,1.47602523659306,1.46636206081613,1.34797454601894,1.42622165442351,1.41815571155073,1.42847811887655,1.36466398265717,1.29958002799813,1.219808995687,1.22424424725523,2024-07-30
+2024-07-30,15:00 (BST),Fed,Job Openings and Labor Turnover Survey (June 2024) --  Quits,2.2,,Data,2.6,2.4,2.3,2.3,2.3,2.3,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2024-07-30
