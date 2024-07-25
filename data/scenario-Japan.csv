@@ -1,27 +1,27 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Japan,2024-07-01,0.05,-0.1,0,0.1,0.15,,The BoJ holds the benchmark rate given lack of evidence that underlying inflationary pressures are taking root.,The BoJ is forced to respond to another bout of yen depreciation via a surprise rate hike.,An unforeseen shock occurs
+Japan,2024-07-01,0.05,-0.1,0,0.1,0.15,,The BoJ decides to hold but delivers hawkish forward guidance,"The BoJ delivers a hike given growing evidence of sustained inflation, or to defend the yen from persistent weakness",An unforeseen shock occurs
 Japan,2024-08-01,,-0.1,0.05,0.125,0.2,,,,
 Japan,2024-09-01,0.175,-0.1,0.1,0.15,0.25,,BoJ delivers a hike as it resumes policy normalization.,The BoJ delivers a larger-than-expected hike in order to deal with a large depreciation of the yen.,BoJ continues to hold rates as wage growth and underlying inflation remain subdued.
-Japan,2024-10-01,,-0.1,0.1,0.15,0.25,,,,
-Japan,2024-11-01,,-0.1,0.1,0.15,0.25,,,,
-Japan,2024-12-01,0.175,-0.1,0.1,0.15,0.25,,The BoJ pauses after September in order to maintain a gradual pace of normalization.,The BoJ is forced to hike two more times from today as a result of excessive yen weakness.,The BoJ does not deliver additional hikes this year as progress on underlying inflation remains too weak.
-Japan,2025-01-01,,-0.1,0.15,0.158333333333333,0.233333333333333,,,,
-Japan,2025-02-01,,-0.1,0.2,0.166666666666667,0.216666666666667,,,,
-Japan,2025-03-01,,-0.1,0.25,0.175,0.2,,,,
-Japan,2025-04-01,,-0.1,0.3,0.183333333333333,0.183333333333333,,,,
-Japan,2025-05-01,,-0.1,0.35,0.191666666666667,0.166666666666667,,,,
+Japan,2024-10-01,,-0.0166666666666667,0.183333333333333,0.1,0.25,,,,
+Japan,2024-11-01,,0.0666666666666667,0.266666666666667,0.05,0.25,,,,
+Japan,2024-12-01,0.5,0.15,0.35,0,0.25,,"The BoJ delivers another full-sized hike after September, continuing the process of normalization.",The BoJ is forced to hike in large increments as a result of excessive yen weakness.,The BoJ does not deliver additional hikes this year as progress on underlying inflation remains too weak.
+Japan,2025-01-01,,0.108333333333333,0.358333333333333,0.0333333333333333,0.233333333333333,,,,
+Japan,2025-02-01,,0.0666666666666667,0.366666666666667,0.0666666666666667,0.216666666666667,,,,
+Japan,2025-03-01,,0.025,0.375,0.1,0.2,,,,
+Japan,2025-04-01,,-0.0166666666666667,0.383333333333333,0.133333333333333,0.183333333333333,,,,
+Japan,2025-05-01,,-0.0583333333333333,0.391666666666667,0.166666666666667,0.166666666666667,,,,
 Japan,2025-06-01,0.5,-0.1,0.4,0.2,0.15,,,,
-Japan,2025-07-01,,-0.1,0.4,0.2,0.233333333333333,,,,
-Japan,2025-08-01,,-0.1,0.4,0.2,0.316666666666667,,,,
-Japan,2025-09-01,,-0.1,0.4,0.2,0.4,,,,
-Japan,2025-10-01,,-0.1,0.4,0.2,0.483333333333333,,,,
-Japan,2025-11-01,,-0.1,0.4,0.2,0.566666666666667,,,,
-Japan,2025-12-01,0.5,-0.1,0.4,0.2,0.65,,The BoJ makes further progress on policy normalization with one 25bps hike.,The yen weakens further or inflation expectations retrench above the 2 % target.,The BoJ is forced to pause earlier than expected as inflationary dynamics stall.
-Japan,2026-01-01,,-0.1,0.416666666666667,0.208333333333333,0.666666666666667,,,,
-Japan,2026-02-01,,-0.1,0.433333333333333,0.216666666666667,0.683333333333333,,,,
-Japan,2026-03-01,,-0.1,0.45,0.225,0.7,,,,
-Japan,2026-04-01,,-0.1,0.466666666666667,0.233333333333333,0.716666666666667,,,,
-Japan,2026-05-01,,-0.1,0.483333333333333,0.241666666666667,0.733333333333333,,,,
+Japan,2025-07-01,,-0.1,0.483333333333333,0.183333333333333,0.166666666666667,,,,
+Japan,2025-08-01,,-0.1,0.566666666666667,0.166666666666667,0.183333333333333,,,,
+Japan,2025-09-01,,-0.1,0.65,0.15,0.2,,,,
+Japan,2025-10-01,,-0.1,0.733333333333333,0.133333333333333,0.216666666666667,,,,
+Japan,2025-11-01,,-0.1,0.816666666666667,0.116666666666667,0.233333333333333,,,,
+Japan,2025-12-01,0.95,-0.1,0.9,0.1,0.25,,The BoJ makes further progress on policy normalization with two additional 25bps hikes.,The yen weakens further or inflation expectations retrench above the 2 % target.,The BoJ is forced to pause earlier than expected as inflationary dynamics stall.
+Japan,2026-01-01,,-0.1,0.833333333333333,0.125,0.333333333333333,,,,
+Japan,2026-02-01,,-0.1,0.766666666666667,0.15,0.416666666666667,,,,
+Japan,2026-03-01,,-0.1,0.7,0.175,0.5,,,,
+Japan,2026-04-01,,-0.1,0.633333333333333,0.2,0.583333333333333,,,,
+Japan,2026-05-01,,-0.1,0.566666666666667,0.225,0.666666666666667,,,,
 Japan,2026-06-01,0.625,-0.1,0.5,0.25,0.75,0.625,,,
 Japan,2026-07-01,,,,,,,,,
 Japan,2026-08-01,,,,,,,,,
