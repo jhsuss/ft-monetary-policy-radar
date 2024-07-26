@@ -1,4 +1,4 @@
-Date,FOMC meeting,meeting_month,forecast_category, ,Probability,rate
+Date,meeting,FOMC meeting,forecast_category, ,Probability,rate
 2024-03-29,2024-07-31,Jul 2024,Cut,Superforecasters,47,5.375
 2024-03-29,2024-07-31,Jul 2024,Hold,Superforecasters,53,5.375
 2024-03-30,2024-07-31,Jul 2024,Cut,Superforecasters,47,5.375
