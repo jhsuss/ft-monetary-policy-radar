@@ -1,5 +1,4 @@
 Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period_3,Period_4,Period_5,Period_6,Period_7,Period_8,Period_9,Period_10,Period_11,Period_12,Period_13,date2
-2024-08-05,00:50 (BST),BoJ,BoJ minutes,,,Meeting,,,,,,,,,,,,,,2024-08-05
 2024-08-06,00:30 (BST),BoJ,Average cash earnings -- provisional (Jun),,,Data,,,,,,,,,,,,,,2024-08-06
 2024-08-07,20:30 (BST),ECB,"Elizabeth Mccaul -- Participation by Ms McCaul in panel discussion at the 2024 Yale Program on Financial Stability Financial Crisis Forum in New Haven, USA.",,,Comms,,,,,,,,,,,,,,2024-08-07
 2024-08-08,00:50 (BST),BoJ,BoJ summary of opinions,,,Meeting,,,,,,,,,,,,,,2024-08-08
@@ -14,3 +13,4 @@ Date,Time,Central Bank,Event,Previous,Estimate,Category,Period_1,Period_2,Period
 2024-08-15,06:00 (BST),BoE,GDP monthly estimate (June 2024),,,Data,,,,,,,,,,,,,,2024-08-15
 2024-08-15,08:30 (BST),BoE,Productivity flash estimate and overview (April to June 2024 and January to March 2024),,,Data,,,,,,,,,,,,,,2024-08-15
 2024-08-16,06:00 (BST),BoE,Retail sales (July 2024),,,Data,,,,,,,,,,,,,,2024-08-16
+2024-08-20,10:00 (BST),ECB,HICP (Jul 2024),2.59403372243839,,Data,5.30988560696602,5.24395417904116,4.33506624182459,2.90010741138561,2.39768499379908,2.92897444407567,2.76877026689947,2.58165621906962,2.42766061794997,2.37166991552957,2.56597645148193,2.51883048513809,2.59403372243839,2024-08-20
