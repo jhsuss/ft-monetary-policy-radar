@@ -1,8 +1,7 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-UK,2024-08-01,5,4.75,0.25,0,0.25,,Headline inflation has returned to target even if services inflation remains elevated. This justifies a majority of the MPC to proceed with a first cut in August.,The last MPC decision in June was ‘finely balanced’ and this one turns out to be as well. Stubborn services inflation and continued wage growth gives discomfort August cut.,"Services inflation surprises to the downside, accompanied by signs of significantly weaker demand."
 UK,2024-09-01,5,4.75,0.25,0,0.25,,The BoE pauses rate cuts in September before continuing with easing later in the year.,The Bank of England expects services inflation to soften to 5 per cent by September. Insufficient progress towards this figure could justify a majority of the MPC voting again to hold rates at 5.25 per cent.,"If economic conditions deteriorate and inflation persistence fades, it is possible (though unlikely) that the MPC proceeds with back to back cuts in August and September."
-UK,2024-10-01,,4.58333333333333,0.333333333333333,0,0.333333333333333,,,,
-UK,2024-11-01,,4.41666666666667,0.416666666666667,0,0.416666666666667,,,,
+UK,2024-10-01,,4.625,0.25,0,0.375,,,,
+UK,2024-11-01,4.75,4.5,0.25,0,0.5,,,,
 UK,2024-12-01,4.75,4.25,0.5,0,0.5,,We expect the BoE to make two cuts by the end of 2024 as the headline rate of inflation hovers around the two per cent target.,MPC members could move slower or even keep rates at the current restrictive levels if services inflation and wage pressures remain elevated.,"UK activity slows significantly over the final quarter of the year, requiring a more aggressive programme of cuts."
 UK,2025-01-01,,4.125,0.5,0.0833333333333333,0.458333333333333,,,,
 UK,2025-02-01,,4,0.5,0.166666666666667,0.416666666666667,,,,
