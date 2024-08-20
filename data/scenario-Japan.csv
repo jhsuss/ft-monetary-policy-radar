@@ -1,28 +1,26 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Japan,2024-07-01,0.05,-0.1,0,0.1,0.15,,The BoJ decides to hold but delivers hawkish forward guidance,"The BoJ delivers a hike given growing evidence of sustained inflation, or to defend the yen from persistent weakness",An unforeseen shock occurs
-Japan,2024-08-01,,-0.1,0.05,0.125,0.2,,,,
-Japan,2024-09-01,0.175,-0.1,0.1,0.15,0.25,,BoJ delivers a hike as it resumes policy normalization.,The BoJ delivers a larger-than-expected hike in order to deal with a large depreciation of the yen.,BoJ continues to hold rates as wage growth and underlying inflation remain subdued.
-Japan,2024-10-01,,-0.0166666666666667,0.15,0.133333333333333,0.25,,,,
-Japan,2024-11-01,,0.0666666666666667,0.2,0.116666666666667,0.25,,,,
-Japan,2024-12-01,0.45,0.15,0.25,0.1,0.25,,"The BoJ delivers another full-sized hike after September, continuing the process of normalization.",The BoJ is forced to hike in large increments as a result of excessive yen weakness.,The BoJ does not deliver additional hikes this year as progress on underlying inflation remains too weak.
-Japan,2025-01-01,,0.15,0.291666666666667,0.1,0.25,,,,
-Japan,2025-02-01,,0.15,0.333333333333333,0.1,0.25,,,,
-Japan,2025-03-01,,0.15,0.375,0.1,0.25,,,,
-Japan,2025-04-01,,0.15,0.416666666666667,0.1,0.25,,,,
-Japan,2025-05-01,,0.15,0.458333333333333,0.1,0.25,,,,
-Japan,2025-06-01,0.7,0.15,0.5,0.1,0.25,,,,
-Japan,2025-07-01,,0.15,0.541666666666667,0.1,0.25,,,,
-Japan,2025-08-01,,0.15,0.583333333333333,0.1,0.25,,,,
-Japan,2025-09-01,,0.15,0.625,0.1,0.25,,,,
-Japan,2025-10-01,,0.15,0.666666666666667,0.1,0.25,,,,
-Japan,2025-11-01,,0.15,0.708333333333333,0.1,0.25,,,,
-Japan,2025-12-01,0.95,0.15,0.75,0.1,0.25,,The BoJ makes further progress on policy normalization with two additional 25bps hikes.,The yen weakens further or inflation expectations retrench above the 2 % target.,The BoJ is forced to pause earlier than expected as inflationary dynamics stall.
-Japan,2026-01-01,,0.125,0.775,0.1,0.291666666666667,,,,
-Japan,2026-02-01,,0.1,0.8,0.1,0.333333333333333,,,,
-Japan,2026-03-01,,0.075,0.825,0.1,0.375,,,,
-Japan,2026-04-01,,0.05,0.85,0.1,0.416666666666667,,,,
-Japan,2026-05-01,,0.025,0.875,0.1,0.458333333333333,,,,
-Japan,2026-06-01,0.95,0,0.9,0.1,0.5,0.95,,,
+Japan,2024-09-01,0.25,0.1,0.15,0,0.25,,The BoJ decides to hold rates after July's increase and market rout,,Market conditions worsen forcing the BoJ to reverse the July rate rise
+Japan,2024-10-01,0.5,0.25,0.25,0,0.25,,"The BoJ delivers another full-sized hike, continuing the process of normalization.","The BoJ regains confidence to deliver am earlier hike along with its latest forecasts, putting the market difficulties of the summer aside",BoJ holds rates at 0.25% to the end of the year as it balances yen weakness and a lacklustre economy
+Japan,2024-11-01,,0.25,0.25,0,0.25,,,,
+Japan,2024-12-01,0.5,0.25,0.25,0,0.25,,"The BoJ holds rates until the end of the year, continuing the process of normalisation.",The BoJ is forced to hike in large increments as a result of excessive yen weakness and economic strength,BoJ holds rates at 0.25% to the end of the year as it balances yen weakness and a lacklustre economy
+Japan,2025-01-01,,0.25,0.291666666666667,0,0.25,,,,
+Japan,2025-02-01,,0.25,0.333333333333333,0,0.25,,,,
+Japan,2025-03-01,,0.25,0.375,0,0.25,,,,
+Japan,2025-04-01,,0.25,0.416666666666667,0,0.25,,,,
+Japan,2025-05-01,,0.25,0.458333333333333,0,0.25,,,,
+Japan,2025-06-01,0.75,0.25,0.5,0,0.25,,The BoJ makes further progress on policy normalization with an additional 25bps hike.,The BoJ is forced to hike in large increments as a result of excessive yen weakness and economic strength,BoJ is unable to raise rates again on fears that inflation has not sufficiently normalised
+Japan,2025-07-01,,0.25,0.541666666666667,0,0.291666666666667,,,,
+Japan,2025-08-01,,0.25,0.583333333333333,0,0.333333333333333,,,,
+Japan,2025-09-01,,0.25,0.625,0,0.375,,,,
+Japan,2025-10-01,,0.25,0.666666666666667,0,0.416666666666667,,,,
+Japan,2025-11-01,,0.25,0.708333333333333,0,0.458333333333333,,,,
+Japan,2025-12-01,1,0.25,0.75,0,0.5,,The BoJ makes further progress on policy normalization with two additional 25bps hikes.,The BoJ is forced to hike in large increments as a result of excessive yen weakness and economic strength,The BoJ is forced to pause earlier than expected as inflationary dynamics stall.
+Japan,2026-01-01,,0.208333333333333,0.833333333333333,0,0.5,,,,
+Japan,2026-02-01,,0.166666666666667,0.916666666666667,0,0.5,,,,
+Japan,2026-03-01,,0.125,1,0,0.5,,,,
+Japan,2026-04-01,,0.0833333333333333,1.08333333333333,0,0.5,,,,
+Japan,2026-05-01,,0.0416666666666667,1.16666666666667,0,0.5,,,,
+Japan,2026-06-01,1.25,0,1.25,0,0.5,1.25,,Normalisation in the Japanese economy continues with interest rates rising to levels in other advanced economies,The BoJ is forced to pause earlier than expected as inflationary dynamics stall.
 Japan,2026-07-01,,,,,,,,,
 Japan,2026-08-01,,,,,,,,,
 Japan,2026-09-01,,0,0.75,1,1,1.25,"Interest rates converge on a relatively low neutral rate similar to the very long term JGB yield. The rate is low given Japan’s long history of difficulties in sufficiently raising inflation rates, which we expect to continue, albeit with less of a struggle than in the 2000s. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario",A successful emergence from decades of weak growth and inflation would require higher neutral interest rates. A clear exit from below target inflation would need higher nominal rates to keep the same longer-term monetary policy stance,"Japan falls back into its low inflation trap, failing to generate domestic inflation and wage growth."

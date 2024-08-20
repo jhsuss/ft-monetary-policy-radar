@@ -1,14 +1,13 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-UK,2024-08-01,5,4.75,0.25,0,0.25,,Headline inflation has returned to target even if services inflation remains elevated. This justifies a majority of the MPC to proceed with a first cut in August.,The last MPC decision in June was ‘finely balanced’ and this one turns out to be as well. Stubborn services inflation and continued wage growth gives discomfort August cut.,"Services inflation surprises to the downside, accompanied by signs of significantly weaker demand."
-UK,2024-09-01,5,4.75,0.25,0,0.25,,The BoE pauses rate cuts in September before continuing with easing later in the year.,The Bank of England expects services inflation to soften to 5 per cent by September. Insufficient progress towards this figure could justify a majority of the MPC voting again to hold rates at 5.25 per cent.,"If economic conditions deteriorate and inflation persistence fades, it is possible (though unlikely) that the MPC proceeds with back to back cuts in August and September."
-UK,2024-10-01,,4.58333333333333,0.333333333333333,0,0.333333333333333,,,,
-UK,2024-11-01,,4.41666666666667,0.416666666666667,0,0.416666666666667,,,,
-UK,2024-12-01,4.75,4.25,0.5,0,0.5,,We expect the BoE to make two cuts by the end of 2024 as the headline rate of inflation hovers around the two per cent target.,MPC members could move slower or even keep rates at the current restrictive levels if services inflation and wage pressures remain elevated.,"UK activity slows significantly over the final quarter of the year, requiring a more aggressive programme of cuts."
-UK,2025-01-01,,4.125,0.5,0.0833333333333333,0.458333333333333,,,,
-UK,2025-02-01,,4,0.5,0.166666666666667,0.416666666666667,,,,
-UK,2025-03-01,,3.875,0.5,0.25,0.375,,,,
-UK,2025-04-01,,3.75,0.5,0.333333333333333,0.333333333333333,,,,
-UK,2025-05-01,,3.625,0.5,0.416666666666667,0.291666666666667,,,,
+UK,2024-09-01,5,4.75,0.25,0,0.25,,The BoE pauses rate cuts in September before continuing with easing later in the year.,,The MPC proceeds with back to back cuts in August and September as growth falters and inflation undershoots.
+UK,2024-10-01,,4.625,0.25,0,0.25,,,,
+UK,2024-11-01,4.75,4.5,0.25,0,0.25,,"The BoE delivers a second rate cut in November, coinciding with its latest forecasts showing continued disinflation",Lingering inflationary pressure and a persistence in high wage increases prevents a second rate cut in November,The MPC cuts in September and November as it reacts to a sharp slowdown of economic growth
+UK,2024-12-01,4.75,4.5,0.25,0,0.25,,We expect the BoE to make two cuts by the end of 2024 as the headline rate of inflation hovers just above the two per cent target.,MPC members move slower or even keep rates at the current restrictive levels because services inflation and wage pressures remain elevated.,"UK activity slows significantly over the final quarter of the year, requiring a more aggressive programme of cuts."
+UK,2025-01-01,,4.33333333333333,0.291666666666667,0.0833333333333333,0.25,,,,
+UK,2025-02-01,,4.16666666666667,0.333333333333333,0.166666666666667,0.25,,,,
+UK,2025-03-01,,4,0.375,0.25,0.25,,,,
+UK,2025-04-01,,3.83333333333333,0.416666666666667,0.333333333333333,0.25,,,,
+UK,2025-05-01,,3.66666666666667,0.458333333333333,0.416666666666667,0.25,,,,
 UK,2025-06-01,4.25,3.5,0.5,0.5,0.25,,The BoE will deliver two more cuts by the middle of 2025 as inflation returns sustainably to target and wage pressures cool.,Persistent wage and service price pressures see rate-setters adopt a more cautious pace of easing.,The UK economy weakens in 2025 as the MPC stimulate demand by lowering interest rates more rapidly.
 UK,2025-07-01,,3.33333333333333,0.625,0.5,0.291666666666667,,,,
 UK,2025-08-01,,3.16666666666667,0.75,0.5,0.333333333333333,,,,
@@ -21,7 +20,7 @@ UK,2026-02-01,,2.33333333333333,1.16666666666667,0.5,0.666666666666667,,,,
 UK,2026-03-01,,2.25,1.125,0.5,0.75,,,,
 UK,2026-04-01,,2.16666666666667,1.08333333333333,0.5,0.833333333333333,,,,
 UK,2026-05-01,,2.08333333333333,1.04166666666667,0.5,0.916666666666667,,,,
-UK,2026-06-01,3.25,2,1,0.5,1,3.25,The BoE will probably deliver two more cuts by mid-2026 as interest rates converge towards neutral levels.,Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
+UK,2026-06-01,3.25,2,1,0.5,1,3.25,The BoE delivers two more cuts by mid-2026 as interest rates converge towards neutral levels.,Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
 UK,2026-07-01,,,,,,,,,
 UK,2026-08-01,,,,,,,,,
 UK,2026-09-01,,1.25,1,1,1.25,2.75,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Stronger growth or a growing lack of confidence in UK public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allow savers to demand higher returns and weak public finances because government needs to attract more savings.,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
