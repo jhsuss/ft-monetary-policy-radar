@@ -1,7 +1,7 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Japan,2024-10-01,0.45,0.25,0.15,0.1,0.25,,"The BoJ delivers another full-sized hike, continuing the process of normalization.","The BoJ regains confidence to deliver am earlier hike along with its latest forecasts, putting the market difficulties of the summer aside",BoJ holds rates at 0.25% to the end of the year as it balances yen weakness and a lacklustre economy
-Japan,2024-11-01,,0.25,0.15,0.1,0.25,,,,
-Japan,2024-12-01,0.45,0.25,0.15,0.1,0.25,,"The BoJ holds rates until the end of the year, continuing the process of normalisation.",The BoJ is forced to hike in large increments as a result of excessive yen weakness and economic strength,BoJ holds rates at 0.25% to the end of the year as it balances yen weakness and a lacklustre economy
+Japan,2024-10-01,0.325,0,0.25,0.15,0.35,,"The BoJ holds rates, waiting for more information about the international environment and the impacts of the yen’s strengthening before making its next move",The BoJ regains the confidence to deliver an increase along with its latest forecasts,The BoJ cuts rates in response to an unforeseen shock
+Japan,2024-11-01,,0.125,0.2,0.125,0.3,,,,
+Japan,2024-12-01,0.45,0.25,0.15,0.1,0.25,,"The BoJ raises rates after an October hold, continuing the process of normalisation",The BoJ is forced to raise rates in large increments as a result of a renewed bout of yen weakness or economic strength,The BoJ holds rates at 0.25% to the end of the year as it attempts to counter a strong and disinflationary yen with a lacklustre economy
 Japan,2025-01-01,,0.25,0.183333333333333,0.108333333333333,0.25,,,,
 Japan,2025-02-01,,0.25,0.216666666666667,0.116666666666667,0.25,,,,
 Japan,2025-03-01,,0.25,0.25,0.125,0.25,,,,
