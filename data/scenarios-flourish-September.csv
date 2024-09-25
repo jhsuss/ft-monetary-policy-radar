@@ -1,23 +1,23 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2024-11-01,4.625,4.5,0,0.25,0.25,,The Fed holds rates as part of a gradual easing process,The Fed decides to hold rates after progress on disinflation stalls.,"With inflation under control, the Fed seeks to offset a weakening labour market with a second consecutive cut"
-US,2024-12-01,4.375,4,0.25,0.25,0.25,,"The Fed, satisfied with yet more progress on disinflation in the autumn, delivers a second rate cut before year end.",A lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,"A sudden and sharp weakening of the labour market, prompting the Fed to deliver multiple cuts"
-US,2025-01-01,,3.95833333333333,0.291666666666667,0.25,0.291666666666667,,,,
-US,2025-02-01,,3.91666666666667,0.333333333333333,0.25,0.333333333333333,,,,
-US,2025-03-01,,3.875,0.375,0.25,0.375,,,,
-US,2025-04-01,,3.83333333333333,0.416666666666667,0.25,0.416666666666667,,,,
-US,2025-05-01,,3.79166666666667,0.458333333333333,0.25,0.458333333333333,,,,
-US,2025-06-01,4.375,3.75,0.5,0.25,0.5,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,Continued weakness in the labour market and tame inflation without a big change in policy forces the Fed into multiple rate cuts
-US,2025-07-01,,3.58333333333333,0.541666666666667,0.291666666666667,0.583333333333333,,,,
-US,2025-08-01,,3.41666666666667,0.583333333333333,0.333333333333333,0.666666666666667,,,,
-US,2025-09-01,,3.25,0.625,0.375,0.75,,,,
-US,2025-10-01,,3.08333333333333,0.666666666666667,0.416666666666667,0.833333333333333,,,,
-US,2025-11-01,,2.91666666666667,0.708333333333333,0.458333333333333,0.916666666666667,,,,
-US,2025-12-01,3.75,2.75,0.75,0.5,1,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,The Fed has to deliver more cuts due to further weakness in the economy
-US,2026-01-01,,2.625,0.791666666666667,0.5,1.08333333333333,,,,
-US,2026-02-01,,2.5,0.833333333333333,0.5,1.16666666666667,,,,
-US,2026-03-01,,2.375,0.875,0.5,1.25,,,,
-US,2026-04-01,,2.25,0.916666666666667,0.5,1.33333333333333,,,,
-US,2026-05-01,,2.125,0.958333333333333,0.5,1.41666666666667,,,,
+US,2024-11-01,4.625,4.5,0,0.25,0.25,,The Fed delivers another cut after seeing further consistent evidence of gradual disinflation.,The Fed decides to hold rates after progress on disinflation stalls.,A further sharp weakening of the labour market forces the Fed into a 0.5 percentage point cut
+US,2024-12-01,4.375,4,0.25,0.25,0.25,,"The Fed, satisfied with yet more progress on disinflation in the autumn, eases in line with  its projections.",A lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,A sudden and sharp weakening of the labour market prompts the Fed to deliver multiple cuts
+US,2025-01-01,,3.91666666666667,0.25,0.25,0.291666666666667,,,,
+US,2025-02-01,,3.83333333333333,0.25,0.25,0.333333333333333,,,,
+US,2025-03-01,,3.75,0.25,0.25,0.375,,,,
+US,2025-04-01,,3.66666666666667,0.25,0.25,0.416666666666667,,,,
+US,2025-05-01,,3.58333333333333,0.25,0.25,0.458333333333333,,,,
+US,2025-06-01,3.875,3.5,0.25,0.25,0.5,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,Continued weakness in the labour market and tame inflation without a big change in policy forces the Fed into multiple rate cuts
+US,2025-07-01,,3.375,0.291666666666667,0.25,0.541666666666667,,,,
+US,2025-08-01,,3.25,0.333333333333333,0.25,0.583333333333333,,,,
+US,2025-09-01,,3.125,0.375,0.25,0.625,,,,
+US,2025-10-01,,3,0.416666666666667,0.25,0.666666666666667,,,,
+US,2025-11-01,,2.875,0.458333333333333,0.25,0.708333333333333,,,,
+US,2025-12-01,3.375,2.75,0.5,0.25,0.75,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,The Fed has to deliver more cuts due to further weakness in the economy
+US,2026-01-01,,2.625,0.583333333333333,0.291666666666667,0.875,,,,
+US,2026-02-01,,2.5,0.666666666666667,0.333333333333333,1,,,,
+US,2026-03-01,,2.375,0.75,0.375,1.125,,,,
+US,2026-04-01,,2.25,0.833333333333333,0.416666666666667,1.25,,,,
+US,2026-05-01,,2.125,0.916666666666667,0.458333333333333,1.375,,,,
 US,2026-06-01,3.25,2,1,0.5,1.5,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,The Fed has to deliver more cuts due to further weakness in the economy
 US,2026-07-01,,2,1,0.5,1.5,,,,
 US,2026-08-01,,2,1,0.5,1.5,,,,
@@ -49,12 +49,12 @@ Eurozone,2026-03-01,,1.375,0.5,0.5,0.875,,,,
 Eurozone,2026-04-01,,1.25,0.583333333333333,0.5,0.916666666666667,,,,
 Eurozone,2026-05-01,,1.125,0.666666666666667,0.5,0.958333333333333,,,,
 Eurozone,2026-06-01,2,1,0.75,0.5,1,,A continuation of monetary easing in the range of neutral rates.,Concerns about remaining inflationary pressure keep interest rates high along with a reluctance on the part of the ECB to reduce rates significantly.,"The Eurozone economy weakens significantly, requiring the ECB to move into a zone that begins to stimulate demand."
-Eurozone,2026-07-01,,1,0.75,0.5,1,,,,
-Eurozone,2026-08-01,,1,0.75,0.5,1,,,,
-Eurozone,2026-09-01,,1,0.75,0.5,1,,,,
-Eurozone,2026-10-01,,1,0.75,0.5,1,,,,
-Eurozone,2026-11-01,,1,0.75,0.5,1,,,,
-Eurozone,2026-12-01,2,1,0.75,0.5,1,2,A continuation of monetary easing in the range of neutral rates.,Concerns about remaining inflationary pressure keep interest rates high along with a reluctance on the part of the ECB to reduce rates significantly.,"The Eurozone economy weakens significantly, requiring the ECB to move into a zone that begins to stimulate demand."
+Eurozone,2026-07-01,,1,0.708333333333333,0.541666666666667,1,,,,
+Eurozone,2026-08-01,,1,0.666666666666667,0.583333333333333,1,,,,
+Eurozone,2026-09-01,,1,0.625,0.625,1,,,,
+Eurozone,2026-10-01,,1,0.583333333333333,0.666666666666667,1,,,,
+Eurozone,2026-11-01,,1,0.541666666666667,0.708333333333333,1,,,,
+Eurozone,2026-12-01,1.875,1,0.5,0.75,1,1.875,A continuation of monetary easing in the range of neutral rates.,Concerns about remaining inflationary pressure keep interest rates high along with a reluctance on the part of the ECB to reduce rates significantly.,"The Eurozone economy weakens significantly, requiring the ECB to move into a zone that begins to stimulate demand."
 Eurozone,2027-01-01,,,,,,,,,
 Eurozone,2027-02-01,,,,,,,,,
 Eurozone,2027-03-01,,0.5,1,1,1,2,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario",Stronger growth or a growing lack of confidence in Eurozone public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allows savers to demand higher returns and weak public finances because government needs to attract more savings,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
