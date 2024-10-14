@@ -32,37 +32,72 @@ date,time,event,geo,category
 2026-02-05,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2026-01-28,14:00 (EST),FOMC meeting,Fed,Meeting
 2025-12-31,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-12-29,08:50 (JST),BoJ summary of opinions,BoJ,Meeting
+2025-12-24,08:50 (JST),BoJ minutes (Oct),BoJ,Meeting
+2025-12-19,12:00 (JST),BoJ meeting,BoJ,Meeting
 2025-12-18,14:15 (CET),Monetary policy meeting in Frankfurt & staff projections,ECB,Meeting
 2025-12-18,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
+2025-12-18,12:00 (BST),MPC decision,BoE,Meeting
 2025-12-10,14:00 (EST),FOMC meeting & summary of economic projections,Fed,Meeting
 2025-11-19,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-11-10,08:50 (JST),BoJ summary of opinions (Oct),BoJ,Meeting
+2025-11-06,12:00 (BST),MPC decision & monetary policy report,BoE,Meeting
+2025-11-05,08:50 (JST),BoJ minutes (Sep),BoJ,Meeting
+2025-10-31,14:00 (JST),BoJ outlook report,BoJ,Meeting
 2025-10-30,14:15 (CET),Monetary policy meeting hosted by the Bank of Italy,ECB,Meeting
 2025-10-30,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
+2025-10-30,12:00 (JST),BoJ meeting,BoJ,Meeting
 2025-10-29,14:00 (EST),FOMC meeting,Fed,Meeting
 2025-10-08,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-09-30,08:50 (JST),BoJ summary of opinions,BoJ,Meeting
+2025-09-25,08:50 (JST),BoJ minutes (Jul),BoJ,Meeting
+2025-09-19,12:00 (JST),BoJ meeting,BoJ,Meeting
+2025-09-18,12:00 (BST),MPC decision,BoE,Meeting
 2025-09-17,14:00 (EST),FOMC meeting & summary of economic projections,Fed,Meeting
 2025-09-11,14:15 (CET),Monetary policy meeting in Frankfurt & staff projections,ECB,Meeting
 2025-09-11,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2025-08-20,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-08-08,08:50 (JST),BoJ summary of opinions (Jul),BoJ,Meeting
+2025-08-07,12:00 (BST),MPC decision & monetary policy report,BoE,Meeting
+2025-08-05,08:50 (JST),BoJ minutes (Jun),BoJ,Meeting
+2025-08-01,14:00 (JST),BoJ outlook report,BoJ,Meeting
+2025-07-31,12:00 (JST),BoJ meeting,BoJ,Meeting
 2025-07-30,14:00 (EST),FOMC meeting,Fed,Meeting
 2025-07-24,14:15 (CET),Monetary policy meeting in Frankfurt,ECB,Meeting
 2025-07-24,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2025-07-09,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-06-25,08:50 (JST),BoJ summary of opinions,BoJ,Meeting
+2025-06-20,08:50 (JST),BoJ minutes (Apr),BoJ,Meeting
+2025-06-19,12:00 (BST),MPC decision,BoE,Meeting
 2025-06-18,14:00 (EST),FOMC meeting & summary of economic projections,Fed,Meeting
+2025-06-17,12:00 (JST),BoJ meeting,BoJ,Meeting
 2025-06-05,14:15 (CET),Monetary policy meeting in Frankfurt & staff projections,ECB,Meeting
 2025-06-05,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2025-05-28,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-05-13,08:50 (JST),BoJ summary of opinions (Apr),BoJ,Meeting
+2025-05-08,12:00 (BST),MPC decision & monetary policy report,BoE,Meeting
+2025-05-08,08:50 (JST),BoJ minutes (Mar),BoJ,Meeting
 2025-05-07,14:00 (EST),FOMC meeting,Fed,Meeting
+2025-05-02,14:00 (JST),BoJ outlook report,BoJ,Meeting
 2025-04-17,14:15 (CET),Monetary policy meeting in Frankfurt,ECB,Meeting
 2025-04-17,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2025-04-09,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-04-01,12:00 (JST),BoJ meeting,BoJ,Meeting
+2025-03-28,08:50 (JST),BoJ summary of opinions,BoJ,Meeting
+2025-03-25,08:50 (JST),BoJ minutes (Jan),BoJ,Meeting
+2025-03-20,12:00 (BST),MPC decision,BoE,Meeting
 2025-03-19,14:00 (EST),FOMC meeting & summary of economic projections,Fed,Meeting
+2025-03-19,12:00 (JST),BoJ meeting,BoJ,Meeting
 2025-03-06,14:15 (CET),Monetary policy meeting in Frankfurt & staff projections,ECB,Meeting
 2025-03-06,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2025-02-19,14:00 (EST),FOMC minutes,Fed,Meeting
+2025-02-06,12:00 (BST),MPC decision & monetary policy report,BoE,Meeting
+2025-02-03,08:50 (JST),BoJ summary of opinions (Jan),BoJ,Meeting
 2025-01-30,14:15 (CET),Monetary policy meeting in Frankfurt,ECB,Meeting
 2025-01-30,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2025-01-29,14:00 (EST),FOMC meeting,Fed,Meeting
+2025-01-27,14:00 (JST),BoJ outlook report,BoJ,Meeting
+2025-01-24,12:00 (JST),BoJ meeting,BoJ,Meeting
 2025-01-08,14:00 (EST),FOMC minutes,Fed,Meeting
 2024-12-27,08:50 (JST),BoJ summary of opinions,BoJ,Meeting
 2024-12-24,08:50 (JST),BoJ minutes (Oct),BoJ,Meeting
@@ -119,4 +154,3 @@ date,time,event,geo,category
 2024-01-31,08:50 (JST),BoJ summary of opinions,BoJ,Meeting
 2024-01-24,14:00 (JST),BoJ outlook report,BoJ,Meeting
 2024-01-23,12:00 (JST),BoJ meeting,BoJ,Meeting
-NA,08:50 (JST),BoJ minutes (Dec),BoJ,Meeting
