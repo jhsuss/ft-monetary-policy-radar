@@ -1,13 +1,11 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Eurozone,2024-10-01,3.5,3.25,0.25,0,0.25,,"We expect the ECB to hold in October rather than cut for a second consecutive meeting. The data dependent ECB is keen to ease policy, but will move slow to give itself room in case incoming inflation and wage data surprises.",Wage and inflation data do not improve sufficiently for the ECB to justify a second cut in rates in 2024.,Sharp reduction in inflation and additional signs of weak aggregate demand could lead the ECB to cut in October
-Eurozone,2024-11-01,,3,0.375,0,0.375,,,,
-Eurozone,2024-12-01,3.25,2.75,0.5,0,0.5,,"We still expect the ECB to cut once more by the end of the year, bringing the deposit rate down by 3.25%. Inflation is still expected to be above target by this point, economic growth and labour markets have been more resilient than expected, but the ECB will proceed as it remains comfortable in its inflation forecast (conditioned on market expectations of 3 cuts total in 2024) showing inflation falling back to target in 2026.",ECB policymakers move slower on fears of insufficient progress on inflation.,Euro area activity slows down significantly further because of weakening demand
-Eurozone,2025-01-01,,2.66666666666667,0.458333333333333,0.0416666666666667,0.541666666666667,,,,
-Eurozone,2025-02-01,,2.58333333333333,0.416666666666667,0.0833333333333333,0.583333333333333,,,,
-Eurozone,2025-03-01,,2.5,0.375,0.125,0.625,,,,
-Eurozone,2025-04-01,,2.41666666666667,0.333333333333333,0.166666666666667,0.666666666666667,,,,
-Eurozone,2025-05-01,,2.33333333333333,0.291666666666667,0.208333333333333,0.708333333333333,,,,
-Eurozone,2025-06-01,2.625,2.25,0.25,0.25,0.75,,"The ECB continues to cautiously reduce rates towards neutral in the first half of 2025, cutting 1 or 2 more times.",ECB policymakers move slower on fears of insufficient progress on inflation.,Euro area activity slows down significantly further because of weakening demand
+Eurozone,2024-12-01,3,2.75,0.25,0,0.5,,ECB to cut for a third consecutive time in December. The data-dependent ECB is keen to ease policy with inflation data on track and greater worries about growth.,ECB policymakers move slower as inflation fears return,Euro area activity slows down significantly further because of weakening demand
+Eurozone,2025-01-01,,2.66666666666667,0.25,0.0416666666666667,0.541666666666667,,,,
+Eurozone,2025-02-01,,2.58333333333333,0.25,0.0833333333333333,0.583333333333333,,,,
+Eurozone,2025-03-01,,2.5,0.25,0.125,0.625,,,,
+Eurozone,2025-04-01,,2.41666666666667,0.25,0.166666666666667,0.666666666666667,,,,
+Eurozone,2025-05-01,,2.33333333333333,0.25,0.208333333333333,0.708333333333333,,,,
+Eurozone,2025-06-01,2.625,2.25,0.25,0.25,0.75,,"The ECB continues to reduce rates towards neutral in the first half of 2025, cutting 1 or 2 more times.",ECB policymakers move slower on fears of insufficient progress on inflation.,Euro area activity slows down significantly further because of weakening demand
 Eurozone,2025-07-01,,2.16666666666667,0.25,0.291666666666667,0.75,,,,
 Eurozone,2025-08-01,,2.08333333333333,0.25,0.333333333333333,0.75,,,,
 Eurozone,2025-09-01,,2,0.25,0.375,0.75,,,,
