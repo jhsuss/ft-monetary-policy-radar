@@ -1,17 +1,17 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
 UK,2024-11-01,4.75,4.5,0.25,0,0.25,,"The BoE delivers a second quarter point rate cut in November, following re-assuring CPI data for September and coinciding with its latest forecasts showing continued disinflation.",,"Given inflation in September came in much lower than expected and is considerably below target, some rate-setters may feel a larger than normal cut is warranted given rates are currently well into restrictive territory."
-UK,2024-12-01,4.5,4.5,0,0,0.5,,"We expect the BoE to cut in December, having cut three times in total by the end of 2024 as it quickens the pace of easing",MPC members move more slowly because services inflation and wage pressures remain elevated.,"UK activity slows significantly over the final quarter of the year, requiring a more aggressive programme of cuts."
-UK,2025-01-01,,4.33333333333333,0.125,0.0416666666666667,0.458333333333333,,,,
-UK,2025-02-01,,4.16666666666667,0.25,0.0833333333333333,0.416666666666667,,,,
-UK,2025-03-01,,4,0.375,0.125,0.375,,,,
-UK,2025-04-01,,3.83333333333333,0.5,0.166666666666667,0.333333333333333,,,,
-UK,2025-05-01,,3.66666666666667,0.625,0.208333333333333,0.291666666666667,,,,
-UK,2025-06-01,4.375,3.5,0.75,0.25,0.25,,The BoE will deliver two more cuts by the middle of 2025 as inflation returns sustainably to target and wage pressures cool.,Persistent wage and service price pressures see rate-setters adopt a more cautious pace of easing.,The UK economy weakens in 2025 as the MPC stimulate demand by lowering interest rates more rapidly.
-UK,2025-07-01,,3.33333333333333,0.791666666666667,0.25,0.333333333333333,,,,
-UK,2025-08-01,,3.16666666666667,0.833333333333333,0.25,0.416666666666667,,,,
-UK,2025-09-01,,3,0.875,0.25,0.5,,,,
-UK,2025-10-01,,2.83333333333333,0.916666666666667,0.25,0.583333333333333,,,,
-UK,2025-11-01,,2.66666666666667,0.958333333333333,0.25,0.666666666666667,,,,
+UK,2024-12-01,4.5,4.25,0.25,0,0.5,,"We expect the BoE to cut in December, having cut three times in total by the end of 2024 as it quickens the pace of easing",MPC members move more slowly because services inflation and wage pressures remain elevated.,"UK activity slows significantly over the final quarter of the year, requiring a more aggressive programme of cuts."
+UK,2025-01-01,,4.08333333333333,0.333333333333333,0.0416666666666667,0.5,,,,
+UK,2025-02-01,,3.91666666666667,0.416666666666667,0.0833333333333333,0.5,,,,
+UK,2025-03-01,,3.75,0.5,0.125,0.5,,,,
+UK,2025-04-01,,3.58333333333333,0.583333333333333,0.166666666666667,0.5,,,,
+UK,2025-05-01,,3.41666666666667,0.666666666666667,0.208333333333333,0.5,,,,
+UK,2025-06-01,4.125,3.25,0.75,0.25,0.5,,The BoE will deliver two more cuts by the middle of 2025 as inflation returns sustainably to target and wage pressures cool.,Persistent wage and service price pressures see rate-setters adopt a more cautious pace of easing.,The UK economy weakens in 2025 as the MPC stimulate demand by lowering interest rates more rapidly.
+UK,2025-07-01,,3.125,0.791666666666667,0.25,0.541666666666667,,,,
+UK,2025-08-01,,3,0.833333333333333,0.25,0.583333333333333,,,,
+UK,2025-09-01,,2.875,0.875,0.25,0.625,,,,
+UK,2025-10-01,,2.75,0.916666666666667,0.25,0.666666666666667,,,,
+UK,2025-11-01,,2.625,0.958333333333333,0.25,0.708333333333333,,,,
 UK,2025-12-01,3.625,2.5,1,0.25,0.75,,The BoE will deliver four cuts in 2025 as it eases policy towards a more neutral rate.,Concerns about remaining inflationary pressure leaves the MPC reluctant to significantly relax its stance.,"The UK economy weakens significantly, requiring the BoE to stimulate demand."
 UK,2026-01-01,,2.41666666666667,1,0.291666666666667,0.791666666666667,,,,
 UK,2026-02-01,,2.33333333333333,1,0.333333333333333,0.833333333333333,,,,
