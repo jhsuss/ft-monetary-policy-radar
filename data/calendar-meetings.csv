@@ -98,6 +98,7 @@ date,time,event,geo,category
 2025-01-29,14:00 (EST),FOMC meeting,Fed,Meeting
 2025-01-27,14:00 (JST),BoJ outlook report,BoJ,Meeting
 2025-01-24,12:00 (JST),BoJ meeting,BoJ,Meeting
+2025-01-16,13:30 (CET),Monetary policy minutes,ECB,Meeting
 2025-01-08,14:00 (EST),FOMC minutes,Fed,Meeting
 2024-12-27,08:50 (JST),BoJ summary of opinions,BoJ,Meeting
 2024-12-24,08:50 (JST),BoJ minutes (Oct),BoJ,Meeting
@@ -107,15 +108,13 @@ date,time,event,geo,category
 2024-12-12,14:15 (CET),Monetary policy meeting in Frankfurt & staff projections,ECB,Meeting
 2024-12-12,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
 2024-11-28,14:00 (EST),FOMC minutes,Fed,Meeting
-2024-11-14,14:15 (CET),Monetary policy minutes,ECB,Meeting
 2024-11-11,08:50 (JST),BoJ summary of opinions (Oct),BoJ,Meeting
 2024-11-07,14:00 (EST),FOMC meeting,Fed,Meeting
 2024-11-07,12:00 (BST),MPC decision & monetary policy report,BoE,Meeting
 2024-11-06,08:50 (JST),BoJ minutes (Sep),BoJ,Meeting
 2024-11-01,14:00 (JST),BoJ outlook report,BoJ,Meeting
 2024-10-31,12:00 (JST),BoJ meeting,BoJ,Meeting
-2024-10-17,14:15 (CET),Monetary policy meeting hosted by Banka Slovenije,ECB,Meeting
-2024-10-17,14:45 (CET),Monetary policy press conference (<a href='https://www.ecb.europa.eu/press/press_conference/html/index.en.html'>link</a>),ECB,Meeting
+2024-10-17,14:15 (CET),Monetary policy meeting,ECB,Meeting
 2024-10-09,14:00 (EST),FOMC minutes,Fed,Meeting
 2024-10-01,08:50 (JST),BoJ summary of opinions (Sep),BoJ,Meeting
 2024-09-26,08:50 (JST),BoJ minutes (Jul),BoJ,Meeting
