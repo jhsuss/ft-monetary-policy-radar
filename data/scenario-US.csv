@@ -1,10 +1,9 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2024-12-01,4.375,4,0.25,0.25,0.25,,"The Fed, satisfied with yet more progress on disinflation in the autumn, eases in line with its projections.",A lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,A sudden and sharp weakening of the labour market prompts the Fed to deliver another 0.5 percentage point cut.
-US,2025-01-01,,3.875,0.375,0.25,0.25,,,,
-US,2025-02-01,4.375,3.75,0.5,0.25,0.25,,"The Fed cuts once over the next two meetings, delivering gradual further easing","A lack of meaningful additional progress on inflation, or aggressive expansionary policies by the new administration, forces the Fed to pause for two meetings in a row.",The Fed is forced to cut rates twice over two meetings owing to severe weakness in the economy
-US,2025-03-01,,3.6875,0.5,0.25,0.3125,,,,
-US,2025-04-01,,3.625,0.5,0.25,0.375,,,,
-US,2025-05-01,,3.5625,0.5,0.25,0.4375,,,,
+US,2025-01-01,4.375,4,0.25,0.25,0.25,,"The Fed, satisfied with yet more progress on disinflation in the autumn, eases in line with its projections.",A lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,A sudden and sharp weakening of the labour market prompts the Fed to deliver another 0.5 percentage point cut.
+US,2025-02-01,,3.875,0.375,0.25,0.25,,,,
+US,2025-03-01,4.375,3.75,0.5,0.25,0.25,,"The Fed cuts once over the next two meetings, delivering gradual further easing","A lack of meaningful additional progress on inflation, or aggressive expansionary policies by the new administration, forces the Fed to pause for two meetings in a row.",The Fed is forced to cut rates twice over two meetings owing to severe weakness in the economy
+US,2025-04-01,,3.66666666666667,0.5,0.25,0.333333333333333,,,,
+US,2025-05-01,,3.58333333333333,0.5,0.25,0.416666666666667,,,,
 US,2025-06-01,4.125,3.5,0.5,0.25,0.5,,The Fed continues very gradual policy normalisation as broad disinflation is offset by fiscal expansion.,Very expansionary policies from a new US administration and a lack of meaningful additional progress on inflation force the Fed to normalise at a very slow pace.,A lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace
 US,2025-07-01,,3.41666666666667,0.541666666666667,0.25,0.541666666666667,,,,
 US,2025-08-01,,3.33333333333333,0.583333333333333,0.25,0.583333333333333,,,,
@@ -26,4 +25,4 @@ US,2026-11-01,,2.04166666666667,0.541666666666667,1.375,1,,,,
 US,2026-12-01,3.25,2,0.5,1.5,1,3.25,,,
 US,2027-01-01,,,,,,,,,
 US,2027-02-01,,,,,,,,,
-US,2027-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak growth and persistently low generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
+US,2027-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak and persistently low growth generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
