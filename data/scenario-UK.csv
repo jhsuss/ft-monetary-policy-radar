@@ -1,29 +1,27 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-UK,2024-12-01,4.75,4.5,0.25,0,0.25,,"The BoE holds rates in December amid mixed signals from data. This is in line with its desire to cut rates “gradually”, suggesting a quarterly pace for rate cuts",A very unlikely scenario in which a new inflationary threat emerges over the coming month,Weakness in the labour market and very subdued inflation data on the day before the decision announcement gives a majority on the MPC the courage needed to accelerate rate cuts
-UK,2025-01-01,,4.375,0.25,0,0.25,,,,
-UK,2025-02-01,4.5,4.25,0.25,0,0.25,,"We expect the BoE to cut in February, maintaining the gradual pace of monetary easing since August. This is a high probability","MPC decide to leave rates unchanged, noting greater inflationary pressures from October’s Budget than they had at first expected","UK activity and inflation slows significantly over the rest of 2024, leading to fears of stagnation and a rapid drop in inflation without a more aggressive programme of cuts"
-UK,2025-03-01,,4.125,0.3125,0,0.25,,,,
-UK,2025-04-01,,4,0.375,0,0.25,,,,
-UK,2025-05-01,,3.875,0.4375,0,0.25,,,,
-UK,2025-06-01,4.25,3.75,0.5,0,0.25,,"The UK economy continues to disinflate gradually, allowing two quarter point rate cuts by summer 2025. Fears of inflation persistence beginning to subside","MPC decides to slow rate cuts in 2025 on evidence that inflation pass through has been higher than hoped, raising the unpleasant prospect of continued persistence in too rapid price and wage rises","UK activity and inflation stagnates in 2025, requiring the MPC to bring rates quickly out of a restrictive position, seeking to boost economic activity"
-UK,2025-07-01,,3.54166666666667,0.583333333333333,0.0416666666666667,0.333333333333333,,,,
-UK,2025-08-01,,3.33333333333333,0.666666666666667,0.0833333333333333,0.416666666666667,,,,
-UK,2025-09-01,,3.125,0.75,0.125,0.5,,,,
-UK,2025-10-01,,2.91666666666667,0.833333333333333,0.166666666666667,0.583333333333333,,,,
-UK,2025-11-01,,2.70833333333333,0.916666666666667,0.208333333333333,0.666666666666667,,,,
+UK,2025-02-01,4.5,4.25,0.25,0,0.25,,"We expect the BoE to cut in February, maintaining the gradual pace of monetary easing since August. This is a high probability","MPC decide to leave rates unchanged, noting greater inflationary pressures from October’s Budget than they had at first expected","UK activity and inflation slows significantly in the first months of 2025, leading to fears of stagnation and a rapid drop in inflation without a more aggressive programme of cuts"
+UK,2025-03-01,4.5,4.25,0.25,0,0.25,,"We expect the BoE to hold in March, maintaining the gradual pace of monetary easing since August.","MPC decide to leave rates unchanged, noting greater inflationary pressures from October’s Budget than they had at first expected","UK activity and inflation slows significantly in the first months of 2025, leading to fears of stagnation and a rapid drop in inflation without a more aggressive programme of cuts"
+UK,2025-04-01,,4.08333333333333,0.333333333333333,0,0.333333333333333,,,,
+UK,2025-05-01,,3.91666666666667,0.416666666666667,0,0.416666666666667,,,,
+UK,2025-06-01,4.25,3.75,0.5,0,0.5,,"The UK economy continues to disinflate gradually, allowing two quarter point rate cuts by summer 2025. Fears of inflation persistence beginning to subside","MPC decides to slow rate cuts in 2025 on evidence that inflation pass through has been higher than hoped, raising the unpleasant prospect of continued persistence in too rapid price and wage rises","UK activity and inflation stagnates in 2025, requiring the MPC to bring rates quickly out of a restrictive position, seeking to boost economic activity"
+UK,2025-07-01,,3.54166666666667,0.583333333333333,0.0416666666666667,0.541666666666667,,,,
+UK,2025-08-01,,3.33333333333333,0.666666666666667,0.0833333333333333,0.583333333333333,,,,
+UK,2025-09-01,,3.125,0.75,0.125,0.625,,,,
+UK,2025-10-01,,2.91666666666667,0.833333333333333,0.166666666666667,0.666666666666667,,,,
+UK,2025-11-01,,2.70833333333333,0.916666666666667,0.208333333333333,0.708333333333333,,,,
 UK,2025-12-01,3.625,2.5,1,0.25,0.75,,The BoE will deliver five cuts in 2025 as it eases policy towards a more neutral rate.,Concerns about remaining inflationary pressure leaves the MPC reluctant to significantly relax its stance.,"The UK economy weakens significantly, requiring the BoE to stimulate demand."
-UK,2026-01-01,,2.41666666666667,1,0.291666666666667,0.791666666666667,,,,
-UK,2026-02-01,,2.33333333333333,1,0.333333333333333,0.833333333333333,,,,
-UK,2026-03-01,,2.25,1,0.375,0.875,,,,
-UK,2026-04-01,,2.16666666666667,1,0.416666666666667,0.916666666666667,,,,
-UK,2026-05-01,,2.08333333333333,1,0.458333333333333,0.958333333333333,,,,
-UK,2026-06-01,3.25,2,1,0.5,1,,The BoE delivers two more cuts by mid-2026 as interest rates converge towards neutral levels.,Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
-UK,2026-07-01,,2,0.958333333333333,0.5,1.04166666666667,,,,
-UK,2026-08-01,,2,0.916666666666667,0.5,1.08333333333333,,,,
-UK,2026-09-01,,2,0.875,0.5,1.125,,,,
-UK,2026-10-01,,2,0.833333333333333,0.5,1.16666666666667,,,,
-UK,2026-11-01,,2,0.791666666666667,0.5,1.20833333333333,,,,
-UK,2026-12-01,3,2,0.75,0.5,1.25,3,"The BoE contnues to gradually ease rates by end 2026, converging towards neutral levels.",Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
+UK,2026-01-01,,2.33333333333333,1.04166666666667,0.291666666666667,0.833333333333333,,,,
+UK,2026-02-01,,2.16666666666667,1.08333333333333,0.333333333333333,0.916666666666667,,,,
+UK,2026-03-01,,2,1.125,0.375,1,,,,
+UK,2026-04-01,,1.83333333333333,1.16666666666667,0.416666666666667,1.08333333333333,,,,
+UK,2026-05-01,,1.66666666666667,1.20833333333333,0.458333333333333,1.16666666666667,,,,
+UK,2026-06-01,3,1.5,1.25,0.5,1.25,,The BoE delivers two more cuts by mid-2026 as interest rates converge towards neutral levels.,Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
+UK,2026-07-01,,1.5,1.25,0.5,1.25,,,,
+UK,2026-08-01,,1.5,1.25,0.5,1.25,,,,
+UK,2026-09-01,,1.5,1.25,0.5,1.25,,,,
+UK,2026-10-01,,1.5,1.25,0.5,1.25,,,,
+UK,2026-11-01,,1.5,1.25,0.5,1.25,,,,
+UK,2026-12-01,3,1.5,1.25,0.5,1.25,3,"The BoE contnues to gradually ease rates by end 2026, converging towards neutral levels.",Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
 UK,2027-01-01,,,,,,,,,
 UK,2027-02-01,,,,,,,,,
 UK,2027-03-01,,1.25,1,1,1.25,2.75,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Stronger growth or a growing lack of confidence in UK public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allow savers to demand higher returns and weak public finances because government needs to attract more savings.,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
