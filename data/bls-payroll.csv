@@ -1,4 +1,5 @@
 date,year,month,payroll_total,payroll_services,average_hourly_earnings,unemployment_rate,unemployment_level,unemployment_reentrants,unemployment_new_entrants,unemployment_layoffs,unemployment_job_losers,unemployment_job_quitters,unemployment_layoffs_permanent,unemployment_layoffs_temporary,unemployment_job_leavers,Monthly change,payroll_services_change,Wage change YoY,Wage change MoM
+2025-01-01,2025,1,159069,137402,35.87,4,6849,2124,659,835,3235,912,1708,693,2400,143,143,4.06150275601973,0.4761904761904523
 2024-12-01,2024,12,158926,137259,35.7,4.1,6886,2031,655,862,3251,947,1707,682,2389,307,309,4.051296997959786,0.2527379949452513
 2024-11-01,2024,11,158619,136950,35.61,4.2,7121,2182,690,787,3394,854,1871,736,2607,261,233,4.153261187481716,0.366403607666288
 2024-10-01,2024,10,158358,136717,35.48,4.1,6972,2151,608,820,3363,802,1822,721,2543,44,94,4.1385383034928,0.4245683555052393
