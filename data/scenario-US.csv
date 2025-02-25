@@ -1,16 +1,14 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2025-01-01,4.375,4,0.25,0.25,0.25,,The Fed holds to see concrete evidence of further progress on inflation and clarity on Trump policies,Aggressive inflationary policies by the new administration in its early days forces the Fed to hike,The Fed cuts rates again as labour market data suggests sharp deterioration and inflation in December falls much faster than expected
-US,2025-02-01,,4,0.25,0.25,0.25,,,,
-US,2025-03-01,4.375,4,0.25,0.25,0.25,,The Fed remains cautious as Trump 2.0 takes shape,Inflationary resurgence leads the Fed to reverse course and raise rates,Further inflationary progress towards target and/or still cooling labour market means the Fed can continues removing restrictiveness
-US,2025-04-01,,3.83333333333333,0.333333333333333,0.25,0.333333333333333,,,,
-US,2025-05-01,,3.66666666666667,0.416666666666667,0.25,0.416666666666667,,,,
-US,2025-06-01,4.125,3.5,0.5,0.25,0.5,,The Fed cuts once very gradual policy normalisation as broad disinflation is offset by fiscal expansion,Inflationary policies from a new US administration and a lack of meaningful additional progress on inflation force the Fed to normalise at a very slow pace,The Fed has to deliver more cuts owing to a sharp deterioration in the real economy
+US,2025-03-01,4.375,4,0.25,0.25,0.25,,Higher inflation data continues into February and is compounded by policy actions that lead the Fed to hold rates again,Inflationary resurgence leads the Fed to reverse course and raise rates,Further inflationary progress towards target and/or still cooling labour market means the Fed continues removing restrictiveness
+US,2025-04-01,,4,0.25,0.25,0.25,,,,
+US,2025-05-01,4.375,4,0.25,0.25,0.25,,Disinflationary pressures remain elusive in the first quarter of the year and the Fed wants confirmation of inflation moving back to target before it cuts and continues to hold,Inflationary trends are judged to be more than seasonal or just one off hits from tariffs and the Fed raises rates in response,"Consumer confidence or business sentiment weaken dramatically and begin to spill over into the labour market and prompt the Fed to move faster, downplaying inflation concerns"
+US,2025-06-01,4.125,3.5,0.5,0.25,0.5,,The Fed cuts once as broad disinflation continues and activity and labour market indicators continue to trend lower,Inflationary policies from a new US administration and a lack of meaningful additional progress force the Fed to move at a slow pace and keep rates higher for longer,The Fed has to deliver more cuts owing to a sharp deterioration in the real economy including declines in consumption and business investment as sentiment declines
 US,2025-07-01,,3.41666666666667,0.541666666666667,0.25,0.541666666666667,,,,
 US,2025-08-01,,3.33333333333333,0.583333333333333,0.25,0.583333333333333,,,,
 US,2025-09-01,,3.25,0.625,0.25,0.625,,,,
 US,2025-10-01,,3.16666666666667,0.666666666666667,0.25,0.666666666666667,,,,
 US,2025-11-01,,3.08333333333333,0.708333333333333,0.25,0.708333333333333,,,,
-US,2025-12-01,3.875,3,0.75,0.25,0.75,,The Fed continues very gradual policy normalisation as expansionary policies do not fully offset the broader disinflationary trend,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation force the Fed to normalise at a very slow pace,The Fed has to deliver more cuts owing to weakness in the real economy
+US,2025-12-01,3.875,3,0.75,0.25,0.75,,The Fed continues very gradual policy normalisation as new policies do not fully offset the broader disinflationary trend,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation force the Fed to keep rates higher for longer,The Fed has to deliver more cuts owing to weakness in the real economy
 US,2026-01-01,,2.95833333333333,0.75,0.25,0.833333333333333,,,,
 US,2026-02-01,,2.91666666666667,0.75,0.25,0.916666666666667,,,,
 US,2026-03-01,,2.875,0.75,0.25,1,,,,
