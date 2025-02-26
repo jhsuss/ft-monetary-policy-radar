@@ -26,13 +26,13 @@ US,2027-02-01,,,,,,,,,
 US,2027-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak and persistently low growth generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
 Eurozone,2025-03-01,2.5,2.25,0.25,0,0.25,,Growth risks outweigh concerns about inflation and prompt the ECB to continue with easing,"February inflation surprises to the upside again, with core and services remaining elevated","Inflation in February deteriorates much harder than expected, prompting the ECB to cut faster"
 Eurozone,2025-04-01,2.25,2,0.25,0,0.25,,Easing continues with a third consecutive cut in 2025 given persistently weak activity and intensifying geopolitical risks,"The hawks on the governing council successfully press for a pause, aided by resilient inflation data","Inflation weakens materially and economic activity surprises consistently to the downside, forcing a larger-sized cut"
-Eurozone,2025-05-01,,2,0.25,0.125,0.25,,,,
-Eurozone,2025-06-01,2.375,2,0.25,0.25,0.25,,"The ECB delivers three cuts in total in the first half of 2025, front-loading a four-cut easing cycle for 2025","Consumption rebounds by more than expected, slowing the ECB’s pace of easing","The ECB is forced to cut faster as economic activity weakens materially due to geopolitical risk, extended consumer weakness, or a combination of these factors"
-Eurozone,2025-07-01,,1.91666666666667,0.25,0.25,0.25,,,,
-Eurozone,2025-08-01,,1.83333333333333,0.25,0.25,0.25,,,,
-Eurozone,2025-09-01,,1.75,0.25,0.25,0.25,,,,
-Eurozone,2025-10-01,,1.66666666666667,0.25,0.25,0.25,,,,
-Eurozone,2025-11-01,,1.58333333333333,0.25,0.25,0.25,,,,
+Eurozone,2025-05-01,,2,0.25,0,0.25,,,,
+Eurozone,2025-06-01,2.25,2,0.25,0,0.25,,"The ECB delivers three cuts in total in the first half of 2025, front-loading a four-cut easing cycle for 2025","Consumption rebounds by more than expected, slowing the ECB’s pace of easing","The ECB is forced to cut faster as economic activity weakens materially due to geopolitical risk, extended consumer weakness, or a combination of these factors"
+Eurozone,2025-07-01,,1.91666666666667,0.25,0.0416666666666667,0.25,,,,
+Eurozone,2025-08-01,,1.83333333333333,0.25,0.0833333333333333,0.25,,,,
+Eurozone,2025-09-01,,1.75,0.25,0.125,0.25,,,,
+Eurozone,2025-10-01,,1.66666666666667,0.25,0.166666666666667,0.25,,,,
+Eurozone,2025-11-01,,1.58333333333333,0.25,0.208333333333333,0.25,,,,
 Eurozone,2025-12-01,1.875,1.5,0.25,0.25,0.25,,"The ECB cuts rates four to five times, taking the benchmark at or just below neutral as the European economy slows down.",Growth and consumption both respond well to lower rates and the ECB fears resurgent inflation and fails to take rates to their neutral levels by the end of the year.,Consumer weakness becomes apparent and fears of undershooting become the primary driver of policy. Rates fall below neutral.
 Eurozone,2026-01-01,,1.41666666666667,0.291666666666667,0.25,0.333333333333333,,,,
 Eurozone,2026-02-01,,1.33333333333333,0.333333333333333,0.25,0.416666666666667,,,,
