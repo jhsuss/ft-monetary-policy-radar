@@ -1,17 +1,17 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Japan,2025-05-01,0.5,0.25,0.25,0,0.25,,Tariffs arrive at the start of April and begin to generate further evidence of lower confidence and output that leads the BoJ to stay on hold,Tariff impact is weaker than expected or Japan strikes a trade deal with the US or recieves tariffs exemptions allowing the BoJ to raise rates for a secon time this year,The BoJ lowers rates to respond to economic threats
-Japan,2025-06-01,0.75,0.5,0.25,0,0.25,,Services inflation begins to rise and the last piece of the “wage price cycle” is in place leaving the BoJ few option but to raise again,A very unlikely scenario where the BoJ is forced to raise rates again due to severe yen weakness,Tariffs are hitting production and confidence and the BoJ remains on hold amid high uncertainty
-Japan,2025-07-01,,0.541666666666667,0.25,0,0.25,,,,
-Japan,2025-08-01,,0.583333333333333,0.25,0,0.25,,,,
-Japan,2025-09-01,,0.625,0.25,0,0.25,,,,
-Japan,2025-10-01,,0.666666666666667,0.25,0,0.25,,,,
-Japan,2025-11-01,,0.708333333333333,0.25,0,0.25,,,,
-Japan,2025-12-01,1,0.75,0.25,0,0.25,,"Wage indications at the end of 2025 are sufficiently strong for the BoJ to take another step towards neutral rates, achieving that goal this year","The BoJ raises rates faster due to a much weaker yen, or faster growth and stronger indications of a wage-price cycle",The BoJ assesses that wage growth and inflation are on track and maintains rates with a view to an early rate rise at the start of 2026
-Japan,2026-01-01,,0.708333333333333,0.291666666666667,0.0416666666666667,0.291666666666667,,,,
-Japan,2026-02-01,,0.666666666666667,0.333333333333333,0.0833333333333333,0.333333333333333,,,,
-Japan,2026-03-01,,0.625,0.375,0.125,0.375,,,,
-Japan,2026-04-01,,0.583333333333333,0.416666666666667,0.166666666666667,0.416666666666667,,,,
-Japan,2026-05-01,,0.541666666666667,0.458333333333333,0.208333333333333,0.458333333333333,,,,
+Japan,2025-05-01,0.5,0.25,0.25,0,0.25,,The BoJ stays still amid concern tariffs in place will lower confidence and output,Japan strikes a trade deal with the US or receives tariffs exemptions allowing the BoJ to raise rates for a second time this year,The BoJ lowers rates to respond to economic threats
+Japan,2025-06-01,0.5,0.25,0.25,0,0.25,,The BoJ remains on hold amid continued high uncertainty and volatile trade policy from the US,"Services inflation begins to rise and the last piece of the “wage price cycle” is in place, leading the BoJ to raise rates","Tariffs are hitting production and confidence hard, leading the BoJ to reduce rates"
+Japan,2025-07-01,,0.25,0.291666666666667,0,0.291666666666667,,,,
+Japan,2025-08-01,,0.25,0.333333333333333,0,0.333333333333333,,,,
+Japan,2025-09-01,,0.25,0.375,0,0.375,,,,
+Japan,2025-10-01,,0.25,0.416666666666667,0,0.416666666666667,,,,
+Japan,2025-11-01,,0.25,0.458333333333333,0,0.458333333333333,,,,
+Japan,2025-12-01,0.75,0.25,0.5,0,0.5,,"Trade uncertainty sufficiently dissipates and Wage indications at the end of 2025 are strong enough for the BoJ to take another step towards neutral rates, achieving that goal this year","The BoJ raises rates faster due to a much weaker yen, or faster growth and stronger indications of a wage-price cycle",The BoJ assesses that wage growth and inflation are on track and maintains rates with a view to an early rate rise at the start of 2026
+Japan,2026-01-01,,0.291666666666667,0.5,0.0416666666666667,0.5,,,,
+Japan,2026-02-01,,0.333333333333333,0.5,0.0833333333333333,0.5,,,,
+Japan,2026-03-01,,0.375,0.5,0.125,0.5,,,,
+Japan,2026-04-01,,0.416666666666667,0.5,0.166666666666667,0.5,,,,
+Japan,2026-05-01,,0.458333333333333,0.5,0.208333333333333,0.5,,,,
 Japan,2026-06-01,1.125,0.5,0.5,0.25,0.5,,The BoJ assesses that wage growth inflation trends are on track following spring wage negotiations and continues to push rates slowly higher,The BoJ becomes confident that wages and prices will reinforce one another and seeks a faster path towards neutral rates,The BoJ holds rates in response to weaker wage and inflation developments or increased risks from an external shock such as trade tariffs
 Japan,2026-07-01,,0.5,0.541666666666667,0.25,0.5,,,,
 Japan,2026-08-01,,0.5,0.583333333333333,0.25,0.5,,,,
