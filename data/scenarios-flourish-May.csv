@@ -12,12 +12,12 @@ US,2026-03-01,,3,1.125,0.25,0.75,,,,
 US,2026-04-01,,2.91666666666667,1.16666666666667,0.25,0.833333333333333,,,,
 US,2026-05-01,,2.83333333333333,1.20833333333333,0.25,0.916666666666667,,,,
 US,2026-06-01,4.125,2.75,1.25,0.25,1,,"The Fed begins to ease, but it is very tentative",Inflationary results of tariffs and the US budget require interest rates to stay higher or rise,Clear weakness in the real economy leads to the faster pace of cuts
-US,2026-07-01,,2.70833333333333,1.25,0.25,1,,,,
-US,2026-08-01,,2.66666666666667,1.25,0.25,1,,,,
-US,2026-09-01,,2.625,1.25,0.25,1,,,,
-US,2026-10-01,,2.58333333333333,1.25,0.25,1,,,,
-US,2026-11-01,,2.54166666666667,1.25,0.25,1,,,,
-US,2026-12-01,3.875,2.5,1.25,0.25,1,3.875,The Fed continues gradual path of easing towards neutral,Inflationary policies require interest rates to stay higher or rise,Weakness in real economy leads to faster pace of cuts or a lower estimate of neutral rates
+US,2026-07-01,,2.70833333333333,1.20833333333333,0.25,1.04166666666667,,,,
+US,2026-08-01,,2.66666666666667,1.16666666666667,0.25,1.08333333333333,,,,
+US,2026-09-01,,2.625,1.125,0.25,1.125,,,,
+US,2026-10-01,,2.58333333333333,1.08333333333333,0.25,1.16666666666667,,,,
+US,2026-11-01,,2.54166666666667,1.04166666666667,0.25,1.20833333333333,,,,
+US,2026-12-01,3.625,2.5,1,0.25,1.25,3.625,The Fed continues gradual path of easing towards neutral,Inflationary policies require interest rates to stay higher or rise,Weakness in real economy leads to faster pace of cuts or a lower estimate of neutral rates
 US,2027-01-01,,,,,,,,,
 US,2027-02-01,,,,,,,,,
 US,2027-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak and persistently low growth generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
@@ -66,13 +66,12 @@ UK,2026-12-01,2.875,1.5,1,0.75,1,2.875,Inflation remains close to target and the
 UK,2027-01-01,,,,,,,,,
 UK,2027-02-01,,,,,,,,,
 UK,2027-03-01,,1.25,1,1,1,2.75,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Stronger growth or a growing lack of confidence in UK public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allow savers to demand higher returns and weak public finances because government needs to attract more savings.,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
-Japan,2025-05-01,0.5,0.25,0.25,0,0.25,,The BoJ stays still amid concern tariffs in place will lower confidence and output,Japan strikes a trade deal with the US or receives tariffs exemptions allowing the BoJ to raise rates for a second time this year,The BoJ lowers rates to respond to economic threats
-Japan,2025-06-01,0.5,0.25,0.25,0,0.25,,The BoJ remains on hold amid continued high uncertainty and volatile trade policy from the US,"Services inflation begins to rise and the last piece of the “wage price cycle” is in place, leading the BoJ to raise rates","Tariffs are hitting production and confidence hard, leading the BoJ to reduce rates"
-Japan,2025-07-01,,0.25,0.291666666666667,0,0.291666666666667,,,,
-Japan,2025-08-01,,0.25,0.333333333333333,0,0.333333333333333,,,,
-Japan,2025-09-01,,0.25,0.375,0,0.375,,,,
-Japan,2025-10-01,,0.25,0.416666666666667,0,0.416666666666667,,,,
-Japan,2025-11-01,,0.25,0.458333333333333,0,0.458333333333333,,,,
+Japan,2025-06-01,0.5,0.25,0.25,0,0.25,,The BoJ remains on hold amid continued high uncertainty and volatile trade policy from the US,A trade deal allows the BoJ to revise up its view of growth and inflation leading the BoJ to raise rates,"Tariffs are hitting production and confidence hard, leading the BoJ to reduce rates"
+Japan,2025-07-01,0.5,0.25,0.25,0,0.25,,The BoJ stays still amid concern tariffs in place will lower confidence and output,Japan strikes a trade deal with the US or receives tariffs exemptions allowing the BoJ to raise rates for a second time this year,The BoJ lowers rates to respond to economic threats
+Japan,2025-08-01,,0.25,0.3,0,0.3,,,,
+Japan,2025-09-01,,0.25,0.35,0,0.35,,,,
+Japan,2025-10-01,,0.25,0.4,0,0.4,,,,
+Japan,2025-11-01,,0.25,0.45,0,0.45,,,,
 Japan,2025-12-01,0.75,0.25,0.5,0,0.5,,"Trade uncertainty sufficiently dissipates and Wage indications at the end of 2025 are strong enough for the BoJ to take another step towards neutral rates, achieving that goal this year","The BoJ raises rates faster due to a much weaker yen, or faster growth and stronger indications of a wage-price cycle",The BoJ assesses that wage growth and inflation are on track and maintains rates with a view to an early rate rise at the start of 2026
 Japan,2026-01-01,,0.291666666666667,0.5,0.0416666666666667,0.5,,,,
 Japan,2026-02-01,,0.333333333333333,0.5,0.0833333333333333,0.5,,,,
