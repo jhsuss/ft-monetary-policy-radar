@@ -1,11 +1,10 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-UK,2025-05-01,4.25,4,0.25,0,0.25,,"We expect the BoE to cut in May, maintaining the quarterly pace of monetary easing that started last August","MPC decides to leave rates unchanged in May, noting high levels of uncertainty and inflationary pressures from still-too-high wage growth and Budget-related price changes","UK activity and inflation slow in early 2025, leading to fears of stagnation and a rapid drop in inflation without a more aggressive programme of cuts"
-UK,2025-06-01,4.25,3.75,0.5,0,0.25,,The BoE holds in June as inflation rises slightly due to energy and regulated prices,"MPC decides to slow rate cuts in 2025 on evidence that inflation pass through has been higher than hoped, raising the unpleasant prospect of continued persistence in too-rapid price and wage rises","UK activity and inflation stagnates in 2025 and more join the dovish contingent, requiring the MPC to bring rates down for a second consecutive meeting to boost economic activity"
-UK,2025-07-01,,3.58333333333333,0.541666666666667,0,0.333333333333333,,,,
-UK,2025-08-01,,3.41666666666667,0.583333333333333,0,0.416666666666667,,,,
-UK,2025-09-01,,3.25,0.625,0,0.5,,,,
-UK,2025-10-01,,3.08333333333333,0.666666666666667,0,0.583333333333333,,,,
-UK,2025-11-01,,2.91666666666667,0.708333333333333,0,0.666666666666667,,,,
+UK,2025-06-01,4.25,4,0.25,0,0.25,,The BoE holds in June as inflation rises slightly due to energy and regulated prices,"MPC decides to reverse rate cuts in 2025 on evidence that inflation pass-through has been higher than hoped, boosting the likelihood of sustained rapid price and wage increases","UK activity and inflation stagnates in 2025 and more join the dovish contingent, requiring the MPC to bring rates down for a second consecutive meeting to boost economic activity"
+UK,2025-07-01,,3.875,0.25,0,0.25,,,,
+UK,2025-08-01,4,3.75,0.25,0,0.25,,The BoE is confident that inflation and wages are on track and continues with the quarterly pace of cuts in August,Wage growth fails to show further signs of slowing down and inflation continues to print hotter than expected and the BoE opts to hold for further clarity before continuing to cut,UK activity and inflation show a marked deline over the summer and the dovish contingent gains enough votes to pull off a half point cut
+UK,2025-09-01,,3.5,0.375,0,0.375,,,,
+UK,2025-10-01,,3.25,0.5,0,0.5,,,,
+UK,2025-11-01,,3,0.625,0,0.625,,,,
 UK,2025-12-01,3.5,2.75,0.75,0,0.75,,The BoE will deliver five cuts in 2025 as it eases policy towards a more neutral rate,Concerns about remaining inflationary pressure leaves the MPC reluctant to significantly relax its stance,"The UK economy weakens significantly, requiring the BoE to stimulate demand"
 UK,2026-01-01,,2.54166666666667,0.833333333333333,0.0833333333333333,0.791666666666667,,,,
 UK,2026-02-01,,2.33333333333333,0.916666666666667,0.166666666666667,0.833333333333333,,,,
