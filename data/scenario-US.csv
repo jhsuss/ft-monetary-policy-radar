@@ -1,11 +1,10 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2025-06-01,4.375,4,0.25,0.25,0.25,,The Fed holds rates in wait-and-see mode while it assesses the effects of the tariff stagflationary shock,"A clear inflationary shock from tariffs emerges, forcing the Fed to shore up its credibility with a rate rise",The Fed gains sufficient evidence of an economic downturn and rapird rise in unemployment to cut rates
-US,2025-07-01,4.375,4,0.25,0.25,0.25,,The Fed continues in wait-and-see mode with some tension between its price stability and maximum employment elements of its mandate,Tariffs result in a significant rise in inflation and the Fed is forced to raise rates to maintain the credibility of monetary policy,The Fed gains sufficient evidence of an economic downturn and rapid rise in unemployment to cut rates.
-US,2025-08-01,,3.85,0.4,0.25,0.3,,,,
-US,2025-09-01,,3.7,0.55,0.25,0.35,,,,
-US,2025-10-01,,3.55,0.7,0.25,0.4,,,,
-US,2025-11-01,,3.4,0.85,0.25,0.45,,,,
-US,2025-12-01,4.375,3.25,1,0.25,0.5,,The Fed continues in wait-and-see mode with some tension between its price stability and maximum employment elements of its mandate,Tariffs result in a significant rise in inflation and the Fed is forced to raise rates to maintain the credibility of monetary policy,"The Fed has sufficient evidence that the inflationary shock is small and cuts rates, perhaps aggressively"
+US,2025-07-01,4.375,4,0.25,0.25,0.25,,The Fed continues in wait-and-see mode with some tension between its price stability and maximum employment elements of its mandate,"A clear inflationary shock from tariffs emerges, forcing the Fed to shore up its credibility with a rate rise",The Fed gains sufficient evidence of an economic downturn and rapid rise in unemployment to cut rates.
+US,2025-08-01,,4,0.25,0.25,0.25,,,,
+US,2025-09-01,4.375,4,0.25,0.25,0.25,,The Fed continues in wait-and-see mode with some tension between its price stability and maximum employment elements of its mandate,Inflation data overshoots and inflation expectations rise sharply forcing the Fed to hike,Inflation remains absent from measures of consumer prices or unemployment rises quickly and the pushes the Fed to cut
+US,2025-10-01,,3.75,0.5,0.25,0.333333333333333,,,,
+US,2025-11-01,,3.5,0.75,0.25,0.416666666666667,,,,
+US,2025-12-01,4.375,3.25,1,0.25,0.5,,The Fed continues in wait-and-see mode with some tension between its price stability and maximum employment elements of its mandate,Tariffs result in a significant rise in inflation and the Fed is forced to raise rates to maintain the credibility of monetary policy,Labour market concerns rise above the worries about inflation and the Fed acts to stem rising job losses
 US,2026-01-01,,3.16666666666667,1.04166666666667,0.25,0.583333333333333,,,,
 US,2026-02-01,,3.08333333333333,1.08333333333333,0.25,0.666666666666667,,,,
 US,2026-03-01,,3,1.125,0.25,0.75,,,,
