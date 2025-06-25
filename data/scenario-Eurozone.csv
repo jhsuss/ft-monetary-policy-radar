@@ -1,16 +1,15 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Eurozone,2025-06-01,2,1.75,0.25,0,0.25,,Gradual easing continues and the ECB reduces rates again at the prevailing quarter-point pace in response to the tariff threat,A large surprise in May inflation swings the balance of voters on the governing council towards backing a hold in June,"An unforeseen negative shock occurs between now and June 5, prompting the governing council to vote for rapid easing"
-Eurozone,2025-07-01,2,1.75,0.25,0,0.25,,Having delivered four cuts in total in 2025 and on the cusp of “accomodative” territory the bar to push below 2 per cent will be high,Elevated inflation risks keep the ECB holding higher for longer than expected,The ECB is forced to cut faster as economic data such as unemployment start to show signs of a contraction caused by tariffs and high uncertainty
-Eurozone,2025-08-01,,1.7,0.25,0.05,0.25,,,,
-Eurozone,2025-09-01,,1.65,0.25,0.1,0.25,,,,
-Eurozone,2025-10-01,,1.6,0.25,0.15,0.25,,,,
-Eurozone,2025-11-01,,1.55,0.25,0.2,0.25,,,,
-Eurozone,2025-12-01,1.875,1.5,0.25,0.25,0.25,,"The ECB cuts rates five times, taking the benchmark at or just below neutral as the European economy slows down",Tariff impact is less severe than expected and recoveries in consumer spending and investment arrive as expected,The ECB takes rates well below neutral as tariffs prove a bigger shock to growth than expected and unemployment begins to rise
-Eurozone,2026-01-01,,1.41666666666667,0.333333333333333,0.25,0.25,,,,
-Eurozone,2026-02-01,,1.33333333333333,0.416666666666667,0.25,0.25,,,,
-Eurozone,2026-03-01,,1.25,0.5,0.25,0.25,,,,
-Eurozone,2026-04-01,,1.16666666666667,0.583333333333333,0.25,0.25,,,,
-Eurozone,2026-05-01,,1.08333333333333,0.666666666666667,0.25,0.25,,,,
+Eurozone,2025-07-01,2,1.75,0.25,0,0.25,,"Having returned to “normal”, the ECB will be on hold in July",There is very little chance of a policy reversal in the short term,The ECB is forced to cut again as inflation unexpectedly dips further below target or downside economic risks materialise
+Eurozone,2025-08-01,,1.75,0.25,0,0.25,,,,
+Eurozone,2025-09-01,2,1.75,0.25,0,0.25,,The ECB remains on hold for a second consecutive meeting as the Eurozone economy strengthens,"Very high trade barriers risk igniting inflation, leading the ECB to reverse course",The ECB is forced to cut again as inflation unexpectedly dips further below target or downside economic risks materialise
+Eurozone,2025-10-01,,1.66666666666667,0.25,0,0.333333333333333,,,,
+Eurozone,2025-11-01,,1.58333333333333,0.25,0,0.416666666666667,,,,
+Eurozone,2025-12-01,1.75,1.5,0.25,0,0.5,,"The ECB cuts rates five times, taking the benchmark at or just below neutral as the European economy slows down",Tariff impact is less severe than expected and recoveries in consumer spending and investment arrive as expected,The ECB takes rates well below neutral as tariffs prove a bigger shock to growth than expected and unemployment begins to rise
+Eurozone,2026-01-01,,1.41666666666667,0.333333333333333,0.0416666666666667,0.458333333333333,,,,
+Eurozone,2026-02-01,,1.33333333333333,0.416666666666667,0.0833333333333333,0.416666666666667,,,,
+Eurozone,2026-03-01,,1.25,0.5,0.125,0.375,,,,
+Eurozone,2026-04-01,,1.16666666666667,0.583333333333333,0.166666666666667,0.333333333333333,,,,
+Eurozone,2026-05-01,,1.08333333333333,0.666666666666667,0.208333333333333,0.291666666666667,,,,
 Eurozone,2026-06-01,1.875,1,0.75,0.25,0.25,,The ECB keeps rates close to neutral as a strong pick-up in consumption keeps inflation at target,Higher-than-expected inflationary pressures force the ECB to keep rates slightly above neutral territory,The ECB delivers additional rate cuts after persistently weak consumption and an unfavourable international environment raise the risks of undershooting.
 Eurozone,2026-07-01,,1,0.75,0.25,0.25,,,,
 Eurozone,2026-08-01,,1,0.75,0.25,0.25,,,,
