@@ -1,20 +1,31 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2025-09-01,4.125,3.75,0.25,0.25,0.25,,The majority of the FOMC concur that weakness in labour markets outweighs inflation concerns and is sufficient to go ahead with a quarter point cut,The Fed dismisses data that shows the job market has weakened and maintains its hawkish fears around tariff inflation keeping rates on hold,Worries about the labour market are much worse than expected and prompted by a bad set of jobs data for August that spurs the FOMC into a half point cut
-US,2025-10-01,4.125,3.75,0.25,0.25,0.25,,The Fed returns to wait-and-see mode with tension between its price stability and maximum employment elements of its mandate,Does not cut in September and continues holding as inflation and jobs numbers come in higher than expected,Unemployment rises quickly towards 4.5 per cent and pushes the Fed to cut again
-US,2025-11-01,,3.5,0.375,0.375,0.375,,,,
-US,2025-12-01,4,3.25,0.5,0.5,0.5,,The Fed cuts rates once or twice in 2025 as labour market weakness forces it to act,The Fed remains on hold all year as inflation heats up and the unemployment rate fails to significantly rise,Tariff inflation remains limited allowing the Fed to move faster in response to a fast rise in unemployment
-US,2026-01-01,,3.125,0.583333333333333,0.5,0.541666666666667,,,,
-US,2026-02-01,,3,0.666666666666667,0.5,0.583333333333333,,,,
-US,2026-03-01,,2.875,0.75,0.5,0.625,,,,
-US,2026-04-01,,2.75,0.833333333333333,0.5,0.666666666666667,,,,
-US,2026-05-01,,2.625,0.916666666666667,0.5,0.708333333333333,,,,
-US,2026-06-01,3.75,2.5,1,0.5,0.75,,The Fed eases at a quarterly pace,Inflationary results of tariffs and the US budget require interest rates to stay higher or rise,Clear weakness in the real economy leads to the faster pace of cuts
-US,2026-07-01,,2.41666666666667,1,0.5,0.875,,,,
-US,2026-08-01,,2.33333333333333,1,0.5,1,,,,
-US,2026-09-01,,2.25,1,0.5,1.125,,,,
-US,2026-10-01,,2.16666666666667,1,0.5,1.25,,,,
-US,2026-11-01,,2.08333333333333,1,0.5,1.375,,,,
-US,2026-12-01,3.25,2,1,0.5,1.5,3.25,The Fed continues a path of easing to neutral,Inflationary policies require interest rates to stay higher or rise,Weakness in real economy leads to faster pace of cuts or a lower estimate of neutral rates
-US,2027-01-01,,,,,,,,,
-US,2027-02-01,,,,,,,,,
-US,2027-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak and persistently low growth generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
+US,2025-10-01,3.875,3.5,0.25,0.25,0.25,,The Fed eases again as it seeks to get to neutral faster,The Fed holds rates in response to persistently above target inflation data and no further bad news on the labour market,The Fed votes for a jumbo cut in the face of another sharp labour market deterioration
+US,2025-11-01,,3.25,0.375,0.25,0.375,,,,
+US,2025-12-01,3.625,3,0.5,0.25,0.5,,The Fed takes another step towards neutral in the absence of significant changes in labour market or inflation data,Rising inflation as companies pass through tariffs forces the Fed into one hold,The Fed delivers at least one jumbo cut as economic activity falls sharply
+US,2026-01-01,,2.875,0.541666666666667,0.25,0.541666666666667,,,,
+US,2026-02-01,,2.75,0.583333333333333,0.25,0.583333333333333,,,,
+US,2026-03-01,,2.625,0.625,0.25,0.625,,,,
+US,2026-04-01,,2.5,0.666666666666667,0.25,0.666666666666667,,,,
+US,2026-05-01,,2.375,0.708333333333333,0.25,0.708333333333333,,,,
+US,2026-06-01,3.125,2.25,0.75,0.25,0.75,,The Fed continues to reduce rates at a quarterly pace,Persistently high inflation forces the Fed to reduce rates at a slower pace,Economic weakness forces the Fed to move the policy stance into accommodative territory
+US,2026-07-01,,2.20833333333333,0.75,0.291666666666667,0.75,,,,
+US,2026-08-01,,2.16666666666667,0.75,0.333333333333333,0.75,,,,
+US,2026-09-01,,2.125,0.75,0.375,0.75,,,,
+US,2026-10-01,,2.08333333333333,0.75,0.416666666666667,0.75,,,,
+US,2026-11-01,,2.04166666666667,0.75,0.458333333333333,0.75,,,,
+US,2026-12-01,3,2,0.75,0.5,0.75,,Fed continues path of easing to neutral or just below,Inflationary policies require interest rates to stay higher or rise,Weakness in real economy leads to faster pace of cuts or a lower estimate of neutral rates
+US,2027-01-01,,2.04166666666667,0.75,0.5,0.75,,,,
+US,2027-02-01,,2.08333333333333,0.75,0.5,0.75,,,,
+US,2027-03-01,,2.125,0.75,0.5,0.75,,,,
+US,2027-04-01,,2.16666666666667,0.75,0.5,0.75,,,,
+US,2027-05-01,,2.20833333333333,0.75,0.5,0.75,,,,
+US,2027-06-01,3.25,2.25,0.75,0.5,0.75,,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
+US,2027-07-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-08-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-09-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-10-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-11-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-12-01,3.25,2.25,0.75,0.5,0.75,3.25,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
+US,2028-01-01,,,,,,,,,
+US,2028-02-01,,,,,,,,,
+US,2028-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak and persistently low growth generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
