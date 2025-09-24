@@ -1,20 +1,31 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Eurozone,2025-09-01,2,1.75,0.25,0,0.25,,Rates remain on hold as hawkish arguments triumph over currently prevailing doves,"Very high trade barriers risk igniting inflation, leading the ECB to reverse course",The deflationary outlook prompts the rates to fall further towards accommodative territory to assuage fears of undershooting
-Eurozone,2025-10-01,1.75,1.5,0.25,0,0.25,,A move to the bottom of the ECB’s neutral range estimates is appropriate given the disinflationary outlook,Rates remain on hold as ECB remains confident it is in a “good place” with inflation,The ECB is forced to cut faster as downside economic risks materialise
-Eurozone,2025-11-01,,1.5,0.25,0,0.375,,,,
-Eurozone,2025-12-01,1.75,1.5,0.25,0,0.5,,"The ECB cuts rates five times, taking the benchmark at or just below neutral as the European economy slows down",Tariff impact is less severe than expected and recoveries in consumer spending and investment arrive as expected,The ECB takes rates well below neutral as tariffs prove a bigger shock to growth than expected and unemployment begins to rise
-Eurozone,2026-01-01,,1.41666666666667,0.333333333333333,0.0416666666666667,0.458333333333333,,,,
-Eurozone,2026-02-01,,1.33333333333333,0.416666666666667,0.0833333333333333,0.416666666666667,,,,
-Eurozone,2026-03-01,,1.25,0.5,0.125,0.375,,,,
-Eurozone,2026-04-01,,1.16666666666667,0.583333333333333,0.166666666666667,0.333333333333333,,,,
-Eurozone,2026-05-01,,1.08333333333333,0.666666666666667,0.208333333333333,0.291666666666667,,,,
+Eurozone,2025-10-01,2,1.75,0.25,0,0.25,,Rates remain on hold with inflation at target and positive signs of economic activity,The ECB is very unlikely to reverse course so soon after easing,Another shock emerges fromeither trade or other geopolitical considerations and the ECB cuts in response
+Eurozone,2025-11-01,,1.75,0.25,0,0.25,,,,
+Eurozone,2025-12-01,2,1.75,0.25,0,0.25,,The ECB maintains rates in the middle of its estimate of the neutral range,A rate rise just as the easin cycle appears to have ended is extremely unlikely,The ECB is forced to cut again as a downside economic shock materialise
+Eurozone,2026-01-01,,1.625,0.333333333333333,0.0416666666666667,0.25,,,,
+Eurozone,2026-02-01,,1.5,0.416666666666667,0.0833333333333333,0.25,,,,
+Eurozone,2026-03-01,,1.375,0.5,0.125,0.25,,,,
+Eurozone,2026-04-01,,1.25,0.583333333333333,0.166666666666667,0.25,,,,
+Eurozone,2026-05-01,,1.125,0.666666666666667,0.208333333333333,0.25,,,,
 Eurozone,2026-06-01,1.875,1,0.75,0.25,0.25,,The ECB keeps rates close to neutral as a strong pick-up in consumption keeps inflation at target,Higher-than-expected inflationary pressures force the ECB to keep rates slightly above neutral territory,The ECB delivers additional rate cuts after persistently weak consumption and an unfavourable international environment raise the risks of undershooting.
 Eurozone,2026-07-01,,1,0.75,0.25,0.25,,,,
 Eurozone,2026-08-01,,1,0.75,0.25,0.25,,,,
 Eurozone,2026-09-01,,1,0.75,0.25,0.25,,,,
 Eurozone,2026-10-01,,1,0.75,0.25,0.25,,,,
 Eurozone,2026-11-01,,1,0.75,0.25,0.25,,,,
-Eurozone,2026-12-01,1.875,1,0.75,0.25,0.25,1.875,The ECB keeps rates close to but below neutral as a mild pick-up in consumption keeps inflation at target,The ECB keeps rates around neutral as a strong pick-up in consumption keeps inflation at target,The ECB delivers additional rate cuts after persistently weak consumption and an unfavourable international environment raise the risks of undershooting.
-Eurozone,2027-01-01,,,,,,,,,
-Eurozone,2027-02-01,,,,,,,,,
-Eurozone,2027-03-01,,0.5,1,1,0.75,2,Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP.,More potential investment opportunity or an uplift in productivity would require a higher neutral interest rate.,"Weak potential output and persistently low investment generate few outside options for savings, helping the long-term interest rate to fall to low levels."
+Eurozone,2026-12-01,1.875,1,0.75,0.25,0.25,,The ECB keeps rates close to but below neutral as a mild pick-up in consumption keeps inflation at target,The ECB keeps rates around neutral as a strong pick-up in consumption keeps inflation at target,The ECB delivers additional rate cuts after persistently weak consumption and an unfavourable international environment raise the risks of undershooting.
+Eurozone,2027-01-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-02-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-03-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-04-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-05-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-06-01,1.875,1,0.75,0.25,0.25,,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months
+Eurozone,2027-07-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-08-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-09-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-10-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-11-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-12-01,1.875,1,0.75,0.25,0.25,1.875,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months
+Eurozone,2028-01-01,,,,,,,,,
+Eurozone,2028-02-01,,,,,,,,,
+Eurozone,2028-03-01,,0.5,1,1,0.75,2,Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP.,More potential investment opportunity or an uplift in productivity would require a higher neutral interest rate.,"Weak potential output and persistently low investment generate few outside options for savings, helping the long-term interest rate to fall to low levels."
