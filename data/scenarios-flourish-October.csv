@@ -1,117 +1,120 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2024-11-01,4.625,4.25,0.25,0.25,0.25,,The Fed delivers another cut after seeing further consistent evidence of gradual disinflation.,The Fed decides to hold rates after progress on disinflation stalls.,A further sharp weakening of the labour market in October forces the Fed into a 0.5 percentage point cut
-US,2024-12-01,4.375,4,0.25,0.25,0.5,,"The Fed, satisfied with yet more progress on disinflation in the autumn, eases in line with  its projections.",A lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,A sudden and sharp weakening of the labour market prompts the Fed to deliver multiple cuts
-US,2025-01-01,,3.83333333333333,0.291666666666667,0.25,0.583333333333333,,,,
-US,2025-02-01,,3.66666666666667,0.333333333333333,0.25,0.666666666666667,,,,
-US,2025-03-01,,3.5,0.375,0.25,0.75,,,,
-US,2025-04-01,,3.33333333333333,0.416666666666667,0.25,0.833333333333333,,,,
-US,2025-05-01,,3.16666666666667,0.458333333333333,0.25,0.916666666666667,,,,
-US,2025-06-01,3.625,3,0.5,0.25,1,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,The Fed has to deliver more cuts due to further weakness in the economy
-US,2025-07-01,,2.95833333333333,0.5,0.25,1.04166666666667,,,,
-US,2025-08-01,,2.91666666666667,0.5,0.25,1.08333333333333,,,,
-US,2025-09-01,,2.875,0.5,0.25,1.125,,,,
-US,2025-10-01,,2.83333333333333,0.5,0.25,1.16666666666667,,,,
-US,2025-11-01,,2.79166666666667,0.5,0.25,1.20833333333333,,,,
-US,2025-12-01,3.375,2.75,0.5,0.25,1.25,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,The Fed has to deliver more cuts due to further weakness in the economy
-US,2026-01-01,,2.66666666666667,0.541666666666667,0.333333333333333,1.20833333333333,,,,
-US,2026-02-01,,2.58333333333333,0.583333333333333,0.416666666666667,1.16666666666667,,,,
-US,2026-03-01,,2.5,0.625,0.5,1.125,,,,
-US,2026-04-01,,2.41666666666667,0.666666666666667,0.583333333333333,1.08333333333333,,,,
-US,2026-05-01,,2.33333333333333,0.708333333333333,0.666666666666667,1.04166666666667,,,,
-US,2026-06-01,3.375,2.25,0.75,0.75,1,,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,The Fed has to deliver more cuts due to further weakness in the economy
-US,2026-07-01,,2.20833333333333,0.708333333333333,0.875,1,,,,
-US,2026-08-01,,2.16666666666667,0.666666666666667,1,1,,,,
-US,2026-09-01,,2.125,0.625,1.125,1,,,,
-US,2026-10-01,,2.08333333333333,0.583333333333333,1.25,1,,,,
-US,2026-11-01,,2.04166666666667,0.541666666666667,1.375,1,,,,
-US,2026-12-01,3.25,2,0.5,1.5,1,3.25,The Fed continues gradual policy normalisation as the economy slows and inflation remains under control,Expansionary policies from a new US administration and a lack of meaningful additional progress on inflation forces the Fed to normalise at a very slow pace.,The Fed has to deliver more cuts due to further weakness in the economy
-US,2027-01-01,,,,,,,,,
-US,2027-02-01,,,,,,,,,
-US,2027-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak growth and persistently low generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
-Eurozone,2024-12-01,3.125,2.75,0.25,0.25,0.25,,ECB to cut for a third consecutive time in December. The data-dependent ECB is keen to ease policy with inflation data on track and greater worries about growth.,ECB policymakers move slower as inflation fears return,Euro area activity slows down significantly further because of weakening demand
-Eurozone,2025-01-01,2.875,2.5,0.25,0.25,0.25,,Signs of consumer recovery remain muted following Christmas and ECB starts the year with one more quarter point cut,Strong consumer trends emerge from Christmas sales and delay ECB loosening,Disappointing Christmas sales arrive in combination with greater risks to growth from one of the external threats
-Eurozone,2025-02-01,,2.4,0.25,0.25,0.25,,,,
-Eurozone,2025-03-01,,2.3,0.25,0.25,0.25,,,,
-Eurozone,2025-04-01,,2.2,0.25,0.25,0.25,,,,
-Eurozone,2025-05-01,,2.1,0.25,0.25,0.25,,,,
-Eurozone,2025-06-01,2.375,2,0.25,0.25,0.25,,The ECB wary of grwoth concerns front loads cuts with a third cut arriving at the June meeting,"Consumer recovery emerges stronger than expected, reigniting fears of inflation and prompting the ECB to proceed more cautiously","Consumer led recovery fails to emerge and growth indicators continue to tick down, ECB cuts faster"
-Eurozone,2025-07-01,,1.91666666666667,0.291666666666667,0.25,0.25,,,,
-Eurozone,2025-08-01,,1.83333333333333,0.333333333333333,0.25,0.25,,,,
-Eurozone,2025-09-01,,1.75,0.375,0.25,0.25,,,,
-Eurozone,2025-10-01,,1.66666666666667,0.416666666666667,0.25,0.25,,,,
-Eurozone,2025-11-01,,1.58333333333333,0.458333333333333,0.25,0.25,,,,
-Eurozone,2025-12-01,2.125,1.5,0.5,0.25,0.25,,The ECB will cut four times in 2025 altogether reaching a neutral rate during the year.,Concerns about remaining inflationary pressure keep interest rates high along with a reluctance on the part of the ECB to reduce rates significantly.,Consumer weakness becomes apparent and fears of undershooting become the primary driver of policy.
-Eurozone,2026-01-01,,1.41666666666667,0.541666666666667,0.291666666666667,0.333333333333333,,,,
-Eurozone,2026-02-01,,1.33333333333333,0.583333333333333,0.333333333333333,0.416666666666667,,,,
-Eurozone,2026-03-01,,1.25,0.625,0.375,0.5,,,,
-Eurozone,2026-04-01,,1.16666666666667,0.666666666666667,0.416666666666667,0.583333333333333,,,,
-Eurozone,2026-05-01,,1.08333333333333,0.708333333333333,0.458333333333333,0.666666666666667,,,,
-Eurozone,2026-06-01,2,1,0.75,0.5,0.75,,A continuation of monetary easing in the range of neutral rates.,Concerns about remaining inflationary pressure keep interest rates high along with a reluctance on the part of the ECB to reduce rates significantly.,"The Eurozone economy weakens significantly, requiring the ECB to move into a zone that begins to stimulate demand."
-Eurozone,2026-07-01,,1,0.708333333333333,0.541666666666667,0.75,,,,
-Eurozone,2026-08-01,,1,0.666666666666667,0.583333333333333,0.75,,,,
-Eurozone,2026-09-01,,1,0.625,0.625,0.75,,,,
-Eurozone,2026-10-01,,1,0.583333333333333,0.666666666666667,0.75,,,,
-Eurozone,2026-11-01,,1,0.541666666666667,0.708333333333333,0.75,,,,
-Eurozone,2026-12-01,1.875,1,0.5,0.75,0.75,1.875,A continuation of monetary easing in the range of neutral rates.,Concerns about remaining inflationary pressure keep interest rates high along with a reluctance on the part of the ECB to reduce rates significantly.,"The Eurozone economy weakens significantly, requiring the ECB to move into a zone that begins to stimulate demand."
-Eurozone,2027-01-01,,,,,,,,,
-Eurozone,2027-02-01,,,,,,,,,
-Eurozone,2027-03-01,,0.5,1,1,0.75,2,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario",Stronger growth or a growing lack of confidence in Eurozone public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allows savers to demand higher returns and weak public finances because government needs to attract more savings,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
-UK,2024-11-01,4.75,4.5,0.25,0,0.25,,"The BoE delivers a second quarter point rate cut in November, following re-assuring CPI data for September and coinciding with its latest forecasts showing continued disinflation.",,"Given inflation in September came in much lower than expected and is considerably below target, some rate-setters may feel a larger than normal cut is warranted given rates are currently well into restrictive territory."
-UK,2024-12-01,4.5,4.25,0.25,0,0.5,,"We expect the BoE to cut in December, having cut three times in total by the end of 2024 as it quickens the pace of easing",MPC members move more slowly because services inflation and wage pressures remain elevated.,"UK activity slows significantly over the final quarter of the year, requiring a more aggressive programme of cuts."
-UK,2025-01-01,,4.08333333333333,0.333333333333333,0.0416666666666667,0.5,,,,
-UK,2025-02-01,,3.91666666666667,0.416666666666667,0.0833333333333333,0.5,,,,
-UK,2025-03-01,,3.75,0.5,0.125,0.5,,,,
-UK,2025-04-01,,3.58333333333333,0.583333333333333,0.166666666666667,0.5,,,,
-UK,2025-05-01,,3.41666666666667,0.666666666666667,0.208333333333333,0.5,,,,
-UK,2025-06-01,4.125,3.25,0.75,0.25,0.5,,The BoE will deliver two more cuts by the middle of 2025 as inflation returns sustainably to target and wage pressures cool.,Persistent wage and service price pressures see rate-setters adopt a more cautious pace of easing.,The UK economy weakens in 2025 as the MPC stimulate demand by lowering interest rates more rapidly.
-UK,2025-07-01,,3.125,0.791666666666667,0.25,0.541666666666667,,,,
-UK,2025-08-01,,3,0.833333333333333,0.25,0.583333333333333,,,,
-UK,2025-09-01,,2.875,0.875,0.25,0.625,,,,
-UK,2025-10-01,,2.75,0.916666666666667,0.25,0.666666666666667,,,,
-UK,2025-11-01,,2.625,0.958333333333333,0.25,0.708333333333333,,,,
-UK,2025-12-01,3.625,2.5,1,0.25,0.75,,The BoE will deliver four cuts in 2025 as it eases policy towards a more neutral rate.,Concerns about remaining inflationary pressure leaves the MPC reluctant to significantly relax its stance.,"The UK economy weakens significantly, requiring the BoE to stimulate demand."
-UK,2026-01-01,,2.41666666666667,1,0.291666666666667,0.791666666666667,,,,
-UK,2026-02-01,,2.33333333333333,1,0.333333333333333,0.833333333333333,,,,
-UK,2026-03-01,,2.25,1,0.375,0.875,,,,
-UK,2026-04-01,,2.16666666666667,1,0.416666666666667,0.916666666666667,,,,
-UK,2026-05-01,,2.08333333333333,1,0.458333333333333,0.958333333333333,,,,
-UK,2026-06-01,3.25,2,1,0.5,1,,The BoE delivers two more cuts by mid-2026 as interest rates converge towards neutral levels.,Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
-UK,2026-07-01,,2,0.958333333333333,0.5,1.04166666666667,,,,
-UK,2026-08-01,,2,0.916666666666667,0.5,1.08333333333333,,,,
-UK,2026-09-01,,2,0.875,0.5,1.125,,,,
-UK,2026-10-01,,2,0.833333333333333,0.5,1.16666666666667,,,,
-UK,2026-11-01,,2,0.791666666666667,0.5,1.20833333333333,,,,
-UK,2026-12-01,3,2,0.75,0.5,1.25,3,"The BoE contnues to gradually ease rates by end 2026, converging towards neutral levels.",Ongoing strong wage demands and the resulting higher demand mean fewer rate cuts from the MPC,"A weak economic outlook sees the MPC cut rates close to, or even below, the neutral rate."
-UK,2027-01-01,,,,,,,,,
-UK,2027-02-01,,,,,,,,,
-UK,2027-03-01,,1.25,1,1,1.25,2.75,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Stronger growth or a growing lack of confidence in UK public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allow savers to demand higher returns and weak public finances because government needs to attract more savings.,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
-Japan,2024-10-01,0.25,0,0.25,0,0.25,,"The BoJ holds rates, waiting for more information about the international environment, the effects of the yen’s strengthening, and the outcome of the elections before making its next move","The BoJ regains the confidence to deliver an increase along with its latest forecasts, given the yen’s recent depreciation",The BoJ cuts rates in response to an unforeseen shock
-Japan,2024-11-01,,0.125,0.25,0,0.25,,,,
-Japan,2024-12-01,0.5,0.25,0.25,0,0.25,,"The BoJ raises rates after an October hold, continuing the process of normalisation",The BoJ is forced to raise rates in large increments as a result of a renewed bout of yen weakness or economic strength,The BoJ holds rates at 0.25% to the end of the year given weak economic dynamics or political pressures to avoid tightening
-Japan,2025-01-01,,0.25,0.25,0.0416666666666667,0.291666666666667,,,,
-Japan,2025-02-01,,0.25,0.25,0.0833333333333333,0.333333333333333,,,,
-Japan,2025-03-01,,0.25,0.25,0.125,0.375,,,,
-Japan,2025-04-01,,0.25,0.25,0.166666666666667,0.416666666666667,,,,
-Japan,2025-05-01,,0.25,0.25,0.208333333333333,0.458333333333333,,,,
-Japan,2025-06-01,0.625,0.25,0.25,0.25,0.5,,"The BoJ gains confidence that the wage-price virtuous cycle is on track, allowing it to deliver another gradual tightening",The BoJ is forced to raise rates faster due to a strong rebound in consumption fuelling a rise in inflation above target,"The Japanese economy’s momentum falters, forcing the BoJ to put its normalisation plans on hold"
-Japan,2025-07-01,,0.25,0.291666666666667,0.25,0.5,,,,
-Japan,2025-08-01,,0.25,0.333333333333333,0.25,0.5,,,,
-Japan,2025-09-01,,0.25,0.375,0.25,0.5,,,,
-Japan,2025-10-01,,0.25,0.416666666666667,0.25,0.5,,,,
-Japan,2025-11-01,,0.25,0.458333333333333,0.25,0.5,,,,
-Japan,2025-12-01,0.875,0.25,0.5,0.25,0.5,,The BoJ makes further progress on policy normalization with two additional 25bps hikes.,The BoJ is forced to hike in large increments as a result of excessive yen weakness and economic strength,The BoJ is forced to pause earlier than expected as inflationary dynamics stall.
-Japan,2026-01-01,,0.208333333333333,0.541666666666667,0.291666666666667,0.541666666666667,,,,
-Japan,2026-02-01,,0.166666666666667,0.583333333333333,0.333333333333333,0.583333333333333,,,,
-Japan,2026-03-01,,0.125,0.625,0.375,0.625,,,,
-Japan,2026-04-01,,0.0833333333333333,0.666666666666667,0.416666666666667,0.666666666666667,,,,
-Japan,2026-05-01,,0.0416666666666667,0.708333333333333,0.458333333333333,0.708333333333333,,,,
-Japan,2026-06-01,1,0,0.75,0.5,0.75,,,,
-Japan,2026-07-01,,0,0.75,0.541666666666667,0.791666666666667,,,,
-Japan,2026-08-01,,0,0.75,0.583333333333333,0.833333333333333,,,,
-Japan,2026-09-01,,0,0.75,0.625,0.875,,,,
-Japan,2026-10-01,,0,0.75,0.666666666666667,0.916666666666667,,,,
-Japan,2026-11-01,,0,0.75,0.708333333333333,0.958333333333333,,,,
-Japan,2026-12-01,1.125,0,0.75,0.75,1,1.125,,,
-Japan,2027-01-01,,,,,,,,,
-Japan,2027-02-01,,,,,,,,,
-Japan,2027-03-01,,0,0.75,1,1,1.25,Interest rates converge on a relatively low neutral rate.,A successful emergence from decades of weak growth and inflation would require higher neutral interest rates.,"Japan falls back into its low inflation trap, failing to generate domestic inflation and wage growth."
+US,2025-10-01,3.875,3.5,0.25,0.25,0.25,,The Fed eases again as it seeks to get to neutral faster,The Fed holds rates in response to persistently above target inflation data and no further bad news on the labour market,The Fed votes for a jumbo cut in the face of another sharp labour market deterioration
+US,2025-11-01,,3.25,0.375,0.25,0.375,,,,
+US,2025-12-01,3.625,3,0.5,0.25,0.5,,The Fed takes another step towards neutral in the absence of significant changes in labour market or inflation data,Rising inflation as companies pass through tariffs forces the Fed into one hold,The Fed delivers at least one jumbo cut as economic activity falls sharply
+US,2026-01-01,,2.875,0.541666666666667,0.25,0.541666666666667,,,,
+US,2026-02-01,,2.75,0.583333333333333,0.25,0.583333333333333,,,,
+US,2026-03-01,,2.625,0.625,0.25,0.625,,,,
+US,2026-04-01,,2.5,0.666666666666667,0.25,0.666666666666667,,,,
+US,2026-05-01,,2.375,0.708333333333333,0.25,0.708333333333333,,,,
+US,2026-06-01,3.125,2.25,0.75,0.25,0.75,,The Fed continues to reduce rates at a quarterly pace,Persistently high inflation forces the Fed to reduce rates at a slower pace,Economic weakness forces the Fed to move the policy stance into accommodative territory
+US,2026-07-01,,2.20833333333333,0.75,0.291666666666667,0.75,,,,
+US,2026-08-01,,2.16666666666667,0.75,0.333333333333333,0.75,,,,
+US,2026-09-01,,2.125,0.75,0.375,0.75,,,,
+US,2026-10-01,,2.08333333333333,0.75,0.416666666666667,0.75,,,,
+US,2026-11-01,,2.04166666666667,0.75,0.458333333333333,0.75,,,,
+US,2026-12-01,3,2,0.75,0.5,0.75,,Fed continues path of easing to neutral or just below,Inflationary policies require interest rates to stay higher or rise,Weakness in real economy leads to faster pace of cuts or a lower estimate of neutral rates
+US,2027-01-01,,2.04166666666667,0.75,0.5,0.75,,,,
+US,2027-02-01,,2.08333333333333,0.75,0.5,0.75,,,,
+US,2027-03-01,,2.125,0.75,0.5,0.75,,,,
+US,2027-04-01,,2.16666666666667,0.75,0.5,0.75,,,,
+US,2027-05-01,,2.20833333333333,0.75,0.5,0.75,,,,
+US,2027-06-01,3.25,2.25,0.75,0.5,0.75,,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
+US,2027-07-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-08-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-09-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-10-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-11-01,,2.25,0.75,0.5,0.75,,,,
+US,2027-12-01,3.25,2.25,0.75,0.5,0.75,3.25,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
+US,2028-01-01,,,,,,,,,
+US,2028-02-01,,,,,,,,,
+US,2028-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak and persistently low growth generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
+Eurozone,2025-10-01,2,1.75,0.25,0,0.25,,Rates remain on hold with inflation at target and positive signs of economic activity,The ECB is very unlikely to reverse course so soon after easing,Another shock emerges from either trade or other geopolitical considerations and the ECB cuts in response
+Eurozone,2025-11-01,,1.75,0.25,0,0.25,,,,
+Eurozone,2025-12-01,2,1.75,0.25,0,0.25,,The ECB maintains rates in the middle of its estimate of the neutral range,A rate rise just as the easin cycle appears to have ended is extremely unlikely,The ECB is forced to cut again as a downside shock to the economy or inflation materialises
+Eurozone,2026-01-01,,1.625,0.333333333333333,0.0416666666666667,0.25,,,,
+Eurozone,2026-02-01,,1.5,0.416666666666667,0.0833333333333333,0.25,,,,
+Eurozone,2026-03-01,,1.375,0.5,0.125,0.25,,,,
+Eurozone,2026-04-01,,1.25,0.583333333333333,0.166666666666667,0.25,,,,
+Eurozone,2026-05-01,,1.125,0.666666666666667,0.208333333333333,0.25,,,,
+Eurozone,2026-06-01,1.875,1,0.75,0.25,0.25,,The ECB keeps rates close to neutral as a strong pick-up in consumption keeps inflation at target,Higher-than-expected inflationary pressures force the ECB to keep rates slightly above neutral territory,The ECB delivers additional rate cuts after persistently weak consumption and an unfavourable international environment raise the risks of undershooting.
+Eurozone,2026-07-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2026-08-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2026-09-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2026-10-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2026-11-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2026-12-01,1.875,1,0.75,0.25,0.25,,The ECB keeps rates close to but below neutral as a mild pick-up in consumption keeps inflation at target,The ECB keeps rates around neutral as a strong pick-up in consumption keeps inflation at target,The ECB delivers additional rate cuts after persistently weak consumption and an unfavourable international environment raise the risks of undershooting.
+Eurozone,2027-01-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-02-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-03-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-04-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-05-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-06-01,1.875,1,0.75,0.25,0.25,,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months
+Eurozone,2027-07-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-08-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-09-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-10-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-11-01,,1,0.75,0.25,0.25,,,,
+Eurozone,2027-12-01,1.875,1,0.75,0.25,0.25,1.875,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months,The path of ECB rates in 2027 will become clearer over the next 12-months
+Eurozone,2028-01-01,,,,,,,,,
+Eurozone,2028-02-01,,,,,,,,,
+Eurozone,2028-03-01,,0.5,1,1,0.75,2,Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP.,More potential investment opportunity or an uplift in productivity would require a higher neutral interest rate.,"Weak potential output and persistently low investment generate few outside options for savings, helping the long-term interest rate to fall to low levels."
+UK,2025-11-01,4,3.75,0.25,0,0.25,,"The BoE decides to pause rate cuts, wanting to see more progress on disinflation before it continues with graudal and cautious easing of policy","The BoE raises rates in the highly unlikely scenario of a sharp rise in September inflation, casting doubt on the disinflation process in the UK","The MPC chooses to contine with quarterly cuts, judging that sufficient progress on disinflation has happened"
+UK,2025-12-01,3.75,3.25,0.5,0,0.5,,The BoE delivers four cuts in 2025 as it eases policy towards a more neutral rate gradually and carefully,Concerns about the persistence of inflation leaves the MPC on pause for the rest of 2025,"The UK economy weakens, requiring the BoE to stimulate demand"
+UK,2026-01-01,,3.16666666666667,0.5,0.0416666666666667,0.541666666666667,,,,
+UK,2026-02-01,,3.08333333333333,0.5,0.0833333333333333,0.583333333333333,,,,
+UK,2026-03-01,,3,0.5,0.125,0.625,,,,
+UK,2026-04-01,,2.91666666666667,0.5,0.166666666666667,0.666666666666667,,,,
+UK,2026-05-01,,2.83333333333333,0.5,0.208333333333333,0.708333333333333,,,,
+UK,2026-06-01,3.375,2.75,0.5,0.25,0.75,,Inflation is on course to fall back to target by the end of 2026 and the bank continues slow loosening,"The BoE wants to ease back to neutral more slowly, holding rates higher for longer",Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
+UK,2026-07-01,,2.625,0.583333333333333,0.25,0.791666666666667,,,,
+UK,2026-08-01,,2.5,0.666666666666667,0.25,0.833333333333333,,,,
+UK,2026-09-01,,2.375,0.75,0.25,0.875,,,,
+UK,2026-10-01,,2.25,0.833333333333333,0.25,0.916666666666667,,,,
+UK,2026-11-01,,2.125,0.916666666666667,0.25,0.958333333333333,,,,
+UK,2026-12-01,3.125,2,1,0.25,1,,"Inflation appears on track to hit target in a sustainable way the bank feels its way towards neutral, but is not there yet",Inflation remains above target forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate,Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
+UK,2027-01-01,,1.91666666666667,1.04166666666667,0.291666666666667,1.04166666666667,,,,
+UK,2027-02-01,,1.83333333333333,1.08333333333333,0.333333333333333,1.08333333333333,,,,
+UK,2027-03-01,,1.75,1.125,0.375,1.125,,,,
+UK,2027-04-01,,1.66666666666667,1.16666666666667,0.416666666666667,1.16666666666667,,,,
+UK,2027-05-01,,1.58333333333333,1.20833333333333,0.458333333333333,1.20833333333333,,,,
+UK,2027-06-01,3,1.5,1.25,0.5,1.25,,Inflation has hit target in a sustainable way and the bank achieves neutral rates,Inflation remains above target forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate,Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
+UK,2027-07-01,,1.5,1.20833333333333,0.5,1.29166666666667,,,,
+UK,2027-08-01,,1.5,1.16666666666667,0.5,1.33333333333333,,,,
+UK,2027-09-01,,1.5,1.125,0.5,1.375,,,,
+UK,2027-10-01,,1.5,1.08333333333333,0.5,1.41666666666667,,,,
+UK,2027-11-01,,1.5,1.04166666666667,0.5,1.45833333333333,,,,
+UK,2027-12-01,2.75,1.5,1,0.5,1.5,2.75,Inflation has hit target in a sustainable way and the BoE has achieved a broadly neutral interest rate,Inflation remains above target forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate,Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
+UK,2028-01-01,,,,,,,,,
+UK,2028-02-01,,,,,,,,,
+UK,2028-03-01,,1.25,1,1,1,2.75,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Stronger growth or a growing lack of confidence in UK public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allow savers to demand higher returns and weak public finances because government needs to attract more savings.,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
+Japan,2025-10-01,0.75,0.5,0.25,0,0.25,,"The BoJ is able to take the next step to rate normalisation, armed with new economic and inflation forecasts",,Caution at the BoJ due to macroeconomic and political uncertainty keeps rates on hold
+Japan,2025-11-01,,0.375,0.375,0,0.375,,,,
+Japan,2025-12-01,0.75,0.25,0.5,0,0.5,,"After raising in October, the BoJ holds rates steady in December.","The BoJ raises rates faster due to a much weaker yen, or faster growth and stronger indications of a wage-price cycle","The BoJ remains cautious, maintaining rates with a view to an early rate rise at the start of 2026"
+Japan,2026-01-01,,0.291666666666667,0.5,0.0416666666666667,0.5,,,,
+Japan,2026-02-01,,0.333333333333333,0.5,0.0833333333333333,0.5,,,,
+Japan,2026-03-01,,0.375,0.5,0.125,0.5,,,,
+Japan,2026-04-01,,0.416666666666667,0.5,0.166666666666667,0.5,,,,
+Japan,2026-05-01,,0.458333333333333,0.5,0.208333333333333,0.5,,,,
+Japan,2026-06-01,1.125,0.5,0.5,0.25,0.5,,The BoJ assesses that wage growth inflation trends are on track following spring wage negotiations and continues to push rates slowly higher,The BoJ seeks a faster path to neutral as wage and price increases pick up faster than expected,The BoJ holds rates due to weaker wage and inflation developments or increased risks from an external shock
+Japan,2026-07-01,,0.5,0.5,0.291666666666667,0.5,,,,
+Japan,2026-08-01,,0.5,0.5,0.333333333333333,0.5,,,,
+Japan,2026-09-01,,0.5,0.5,0.375,0.5,,,,
+Japan,2026-10-01,,0.5,0.5,0.416666666666667,0.5,,,,
+Japan,2026-11-01,,0.5,0.5,0.458333333333333,0.5,,,,
+Japan,2026-12-01,1.25,0.5,0.5,0.5,0.5,,The BoJ assesses that wage growth inflation trends are on track and achieves the mid point of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates due to weaker wage and inflation developments or increased risks from an external shock
+Japan,2027-01-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-02-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-03-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-04-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-05-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-06-01,1.25,0.5,0.5,0.5,0.5,,The BoJ assesses that wage growth and inflation are on track and achieves the midpoint of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates lower due to weaker wage and inflation developments or increased risks from an external shock such as trade tariffs
+Japan,2027-07-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-08-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-09-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-10-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-11-01,,0.5,0.5,0.5,0.5,,,,
+Japan,2027-12-01,1.25,0.5,0.5,0.5,0.5,1.25,The BoJ assesses that wage growth and inflation are on track and achieves the midpoint of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates lower due to weaker wage and inflation developments or increased risks from an external shock such as trade tariffs
+Japan,2028-01-01,,,,,,,,,
+Japan,2028-02-01,,,,,,,,,
+Japan,2028-03-01,,0,0.75,1,1,1.25,Interest rates converge on a relatively low neutral rate.,A successful emergence from decades of weak growth and inflation would require higher neutral interest rates.,"Japan falls back into its low inflation trap, failing to generate domestic inflation and wage growth."
