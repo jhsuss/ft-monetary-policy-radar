@@ -1,12 +1,10 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2025-10-01,3.875,3.5,0.25,0.25,0.25,,The Fed eases again as it seeks to get to neutral faster,The Fed holds rates in response to persistently above target inflation data and no further bad news on the labour market,The Fed votes for a jumbo cut in the face of another sharp labour market deterioration
-US,2025-11-01,,3.25,0.375,0.25,0.375,,,,
-US,2025-12-01,3.625,3,0.5,0.25,0.5,,The Fed takes another step towards neutral in the absence of significant changes in labour market or inflation data,Rising inflation as companies pass through tariffs forces the Fed into one hold,The Fed delivers at least one jumbo cut as economic activity falls sharply
-US,2026-01-01,,2.875,0.541666666666667,0.25,0.541666666666667,,,,
-US,2026-02-01,,2.75,0.583333333333333,0.25,0.583333333333333,,,,
-US,2026-03-01,,2.625,0.625,0.25,0.625,,,,
-US,2026-04-01,,2.5,0.666666666666667,0.25,0.666666666666667,,,,
-US,2026-05-01,,2.375,0.708333333333333,0.25,0.708333333333333,,,,
+US,2025-12-01,3.625,3,0.5,0.25,0.25,,"The Fed takes another step towards neutral, as signalled",An unexpected development sways the FOMC into a hold,The Fed delivers a jumbo cut as economic activity falls sharply
+US,2026-01-01,3.625,3,0.5,0.25,0.5,,The Fed pauses after delivering a rate cut in December,Very firm inflation forces the FOMC into a second consecutive hold,The Fed delivers a fourth consecutive cut as economic activity falls sharply
+US,2026-02-01,,2.85,0.55,0.25,0.55,,,,
+US,2026-03-01,,2.7,0.6,0.25,0.6,,,,
+US,2026-04-01,,2.55,0.65,0.25,0.65,,,,
+US,2026-05-01,,2.4,0.7,0.25,0.7,,,,
 US,2026-06-01,3.125,2.25,0.75,0.25,0.75,,The Fed continues to reduce rates at a quarterly pace,Persistently high inflation forces the Fed to reduce rates at a slower pace,Economic weakness forces the Fed to move the policy stance into accommodative territory
 US,2026-07-01,,2.20833333333333,0.75,0.291666666666667,0.75,,,,
 US,2026-08-01,,2.16666666666667,0.75,0.333333333333333,0.75,,,,
