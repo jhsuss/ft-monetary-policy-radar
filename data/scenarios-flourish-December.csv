@@ -1,29 +1,28 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-US,2025-12-01,3.625,3,0.5,0.25,0.25,,"The Fed takes another step towards neutral, as signalled",An unexpected development sways the FOMC into a hold,The Fed delivers a jumbo cut as economic activity falls sharply
-US,2026-01-01,3.625,3,0.5,0.25,0.5,,The Fed pauses after delivering a rate cut in December,Very firm inflation forces the FOMC into a second consecutive hold,The Fed delivers a fourth consecutive cut as economic activity falls sharply
-US,2026-02-01,,2.85,0.55,0.25,0.55,,,,
-US,2026-03-01,,2.7,0.6,0.25,0.6,,,,
-US,2026-04-01,,2.55,0.65,0.25,0.65,,,,
-US,2026-05-01,,2.4,0.7,0.25,0.7,,,,
-US,2026-06-01,3.125,2.25,0.75,0.25,0.75,,The Fed continues to reduce rates at a quarterly pace,Persistently high inflation forces the Fed to reduce rates at a slower pace,Economic weakness forces the Fed to move the policy stance into accommodative territory
-US,2026-07-01,,2.20833333333333,0.75,0.291666666666667,0.75,,,,
-US,2026-08-01,,2.16666666666667,0.75,0.333333333333333,0.75,,,,
-US,2026-09-01,,2.125,0.75,0.375,0.75,,,,
-US,2026-10-01,,2.08333333333333,0.75,0.416666666666667,0.75,,,,
-US,2026-11-01,,2.04166666666667,0.75,0.458333333333333,0.75,,,,
-US,2026-12-01,3,2,0.75,0.5,0.75,,Fed continues path of easing to neutral or just below,Inflationary policies require interest rates to stay higher or rise,Weakness in real economy leads to faster pace of cuts or a lower estimate of neutral rates
-US,2027-01-01,,2.04166666666667,0.75,0.5,0.75,,,,
-US,2027-02-01,,2.08333333333333,0.75,0.5,0.75,,,,
-US,2027-03-01,,2.125,0.75,0.5,0.75,,,,
-US,2027-04-01,,2.16666666666667,0.75,0.5,0.75,,,,
-US,2027-05-01,,2.20833333333333,0.75,0.5,0.75,,,,
-US,2027-06-01,3.25,2.25,0.75,0.5,0.75,,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
-US,2027-07-01,,2.25,0.75,0.5,0.75,,,,
-US,2027-08-01,,2.25,0.75,0.5,0.75,,,,
-US,2027-09-01,,2.25,0.75,0.5,0.75,,,,
-US,2027-10-01,,2.25,0.75,0.5,0.75,,,,
-US,2027-11-01,,2.25,0.75,0.5,0.75,,,,
-US,2027-12-01,3.25,2.25,0.75,0.5,0.75,3.25,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
+US,2026-01-01,3.625,3.25,0.25,0.25,0.25,,The Fed pauses after delivering a rate cut in December,The Fed reverses course in response to an inflationary shock,The Fed delivers a fourth consecutive cut as economic activity falls sharply
+US,2026-02-01,,3.125,0.25,0.25,0.25,,,,
+US,2026-03-01,3.375,3,0.25,0.25,0.25,,The moves again in response to continued weaknesss in the market,The Fed keeps rates on hold as inflation remains persistent,The Fed delivers a fifth consecutive cut in response to rising unemployment
+US,2026-04-01,,2.75,0.416666666666667,0.25,0.333333333333333,,,,
+US,2026-05-01,,2.5,0.583333333333333,0.25,0.416666666666667,,,,
+US,2026-06-01,3.125,2.25,0.75,0.25,0.5,,The Fed continues to reduce rates at a quarterly pace,Persistently high inflation forces the Fed to reduce rates at a slower pace,Economic weakness forces the Fed to move the policy stance into accommodative territory
+US,2026-07-01,,2.20833333333333,0.75,0.291666666666667,0.5,,,,
+US,2026-08-01,,2.16666666666667,0.75,0.333333333333333,0.5,,,,
+US,2026-09-01,,2.125,0.75,0.375,0.5,,,,
+US,2026-10-01,,2.08333333333333,0.75,0.416666666666667,0.5,,,,
+US,2026-11-01,,2.04166666666667,0.75,0.458333333333333,0.5,,,,
+US,2026-12-01,3,2,0.75,0.5,0.5,,Fed continues path of easing to neutral or just below,Inflationary policies require interest rates to stay higher or rise,Weakness in real economy leads to faster pace of cuts or a lower estimate of neutral rates
+US,2027-01-01,,2.04166666666667,0.75,0.5,0.5,,,,
+US,2027-02-01,,2.08333333333333,0.75,0.5,0.5,,,,
+US,2027-03-01,,2.125,0.75,0.5,0.5,,,,
+US,2027-04-01,,2.16666666666667,0.75,0.5,0.5,,,,
+US,2027-05-01,,2.20833333333333,0.75,0.5,0.5,,,,
+US,2027-06-01,3.25,2.25,0.75,0.5,0.5,,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
+US,2027-07-01,,2.25,0.75,0.5,0.5,,,,
+US,2027-08-01,,2.25,0.75,0.5,0.5,,,,
+US,2027-09-01,,2.25,0.75,0.5,0.5,,,,
+US,2027-10-01,,2.25,0.75,0.5,0.5,,,,
+US,2027-11-01,,2.25,0.75,0.5,0.5,,,,
+US,2027-12-01,3.25,2.25,0.75,0.5,0.5,3.25,"The Fed gradually brings the benchmark rate back to neutral, after taking it below neutral levels in 2026",The Fed is forced to remain cautious as inflation rises to well above target as a result of tariffs,Political pressures or weak demand force the Fed to retain an accommodative stance
 US,2028-01-01,,,,,,,,,
 US,2028-02-01,,,,,,,,,
 US,2028-03-01,,1.5,1,1.5,1,3.25,"Interest rates converge on a rate similar to the long-term trend growth of the US economy plus inflation, although the path towards these rates might be bumpy with long periods outside the range.",Strong growth or a growing lack of confidence in US public finances requires a higher neutral interest rate.,"Weak and persistently low growth generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
@@ -55,8 +54,8 @@ Eurozone,2027-12-01,1.875,1,0.75,0.25,0.25,1.875,The path of ECB rates in 2027 w
 Eurozone,2028-01-01,,,,,,,,,
 Eurozone,2028-02-01,,,,,,,,,
 Eurozone,2028-03-01,,0.5,1,1,0.75,2,Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP.,More potential investment opportunity or an uplift in productivity would require a higher neutral interest rate.,"Weak potential output and persistently low investment generate few outside options for savings, helping the long-term interest rate to fall to low levels."
-UK,2026-02-01,3.75,3.25,0.5,0,0.25,,The BoE holds rates in February after cutting in December as it waits for more evidence on disinflation,Concerns about the persistence of inflation and an unhelpful Budget persuade a majority of the MPC to hold rates again,A sudden deterioration in the UK economy requires the BoE to stimulate demand
-UK,2026-03-01,3.5,3.25,0.25,0,0.5,,The BoE holds rates in February after cutting in December as it waits for more evidence on disinflation,Concerns about the persistence of inflation leave the MPC on pause,"The UK economy weakens, requiring the BoE to stimulate demand"
+UK,2026-02-01,3.75,3.25,0.5,0,0.25,,The BoE holds rates in February after cutting in December as it waits for more evidence on disinflation,Concerns about the persistence of inflation reemerge and the BoE performs a U-turn on rates,A sudden deterioration in the UK economy requires the BoE to stimulate demand
+UK,2026-03-01,3.5,3.25,0.25,0,0.5,,The BoE has enough evidence of continued disinflation in March to cut again,Concerns about the persistence of inflation leave the MPC on pause for the first half of 2026,"The UK economy weakens sharply, requiring the BoE to stimulate demand"
 UK,2026-04-01,,3.08333333333333,0.333333333333333,0.0833333333333333,0.583333333333333,,,,
 UK,2026-05-01,,2.91666666666667,0.416666666666667,0.166666666666667,0.666666666666667,,,,
 UK,2026-06-01,3.375,2.75,0.5,0.25,0.75,,Inflation is on course to fall back to target by the end of 2026 and the bank continues slow loosening,"The BoE wants to ease back to neutral more slowly, holding rates higher for longer",Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
