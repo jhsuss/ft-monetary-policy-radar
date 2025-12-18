@@ -1,7 +1,7 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
 US,2026-01-01,3.625,3.25,0.25,0.25,0.25,,The Fed pauses after delivering a rate cut in December,The Fed reverses course in response to an inflationary shock,The Fed delivers a fourth consecutive cut as economic activity falls sharply
 US,2026-02-01,,3.125,0.25,0.25,0.25,,,,
-US,2026-03-01,3.375,3,0.25,0.25,0.25,,The moves again in response to continued weaknesss in the market,The Fed keeps rates on hold as inflation remains persistent,The Fed delivers a fifth consecutive cut in response to rising unemployment
+US,2026-03-01,3.375,3,0.25,0.25,0.25,,The moves again in response to continued weaknesss in the labour market,The Fed keeps rates on hold as inflation remains persistent,The Fed delivers a fifth consecutive cut in response to rising unemployment
 US,2026-04-01,,2.75,0.416666666666667,0.25,0.333333333333333,,,,
 US,2026-05-01,,2.5,0.583333333333333,0.25,0.416666666666667,,,,
 US,2026-06-01,3.125,2.25,0.75,0.25,0.5,,The Fed continues to reduce rates at a quarterly pace,Persistently high inflation forces the Fed to reduce rates at a slower pace,Economic weakness forces the Fed to move the policy stance into accommodative territory
