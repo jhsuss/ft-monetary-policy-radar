@@ -1,10 +1,8 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-UK,2025-12-01,3.75,3.5,0.25,0,0.25,,The BoE delivers four cuts in 2025 as it eases policy towards a more neutral rate,Concerns about the persistence of inflation and an unhelpful Budget persuade a majority of the MPC to hold rates again,A sudden deterioration in the UK economy requires the BoE to stimulate demand
-UK,2026-01-01,,3.375,0.375,0,0.25,,,,
-UK,2026-02-01,3.75,3.25,0.5,0,0.25,,The BoE holds rates in February after cutting in December as it waits for more evidence on disinflation,Concerns about the persistence of inflation leave the MPC on pause,"The UK economy weakens, requiring the BoE to stimulate demand"
-UK,2026-03-01,,3.125,0.5,0.0625,0.375,,,,
-UK,2026-04-01,,3,0.5,0.125,0.5,,,,
-UK,2026-05-01,,2.875,0.5,0.1875,0.625,,,,
+UK,2026-02-01,3.75,3.25,0.5,0,0.25,,The BoE holds rates in February after cutting in December as it waits for more evidence on disinflation,Concerns about the persistence of inflation and an unhelpful Budget persuade a majority of the MPC to hold rates again,A sudden deterioration in the UK economy requires the BoE to stimulate demand
+UK,2026-03-01,3.5,3.25,0.25,0,0.5,,The BoE holds rates in February after cutting in December as it waits for more evidence on disinflation,Concerns about the persistence of inflation leave the MPC on pause,"The UK economy weakens, requiring the BoE to stimulate demand"
+UK,2026-04-01,,3.08333333333333,0.333333333333333,0.0833333333333333,0.583333333333333,,,,
+UK,2026-05-01,,2.91666666666667,0.416666666666667,0.166666666666667,0.666666666666667,,,,
 UK,2026-06-01,3.375,2.75,0.5,0.25,0.75,,Inflation is on course to fall back to target by the end of 2026 and the bank continues slow loosening,"The BoE wants to ease back to neutral more slowly, holding rates higher for longer",Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
 UK,2026-07-01,,2.625,0.583333333333333,0.25,0.791666666666667,,,,
 UK,2026-08-01,,2.5,0.666666666666667,0.25,0.833333333333333,,,,
