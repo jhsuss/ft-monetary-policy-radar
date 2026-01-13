@@ -1,4 +1,15 @@
 Date,Quote,Significance,Central Banker,geo,Source..link,Stance,Position,Voter,Scale value,Active
+2026-01-08T00:00:00Z,I’m looking for about a point and a half of cuts. A lot of that is driven by my view of inflation.,NA,Stephen Miran,Fed,NA,NA,NA,NA,NA,NA
+2026-01-06T00:00:00Z,Current policy rate is within the range of neutral,NA,Thomas Barkin,Fed,NA,Centrist,Richmond,No,55,Yes
+2026-01-06T00:00:00Z,Fed policy is restrictive nad holding the economy back,NA,Stephen Miran,Fed,NA,Dove,Board of governors,Yes,25,Yes
+2026-01-05T00:00:00Z,My guess is we’re pretty close to neutral right now,NA,Neel Kashkari,Fed,NA,Hawkish,Minneapolis,Yes,65,Yes
+2026-01-03T00:00:00Z,"I see inflation moderating, the labor market stabilizing and growth coming in around 2 percent this year. If all of that happens, then some modest further adjustments to the funds rate would likely be appropriate later in the year",NA,Anna Paulson,Fed,NA,Centrist,Philadelphia,Yes,45,Yes
+2025-12-22T00:00:00Z,See no need to change interest rates for months after the central bank cut rates at its last three meetings,NA,Beth Hammack,Fed,NA,Hawkish,Cleveland,Yes,75,Yes
+2025-12-19T00:00:00Z,"No sense of urgency to need to act further on monetary policy right now, because I think the cuts we've made have positioned us really well",NA,John Williams,Fed,NA,Centrist,New York,Yes,50,Yes
+2025-12-18T00:00:00Z,"My view is that the settling point of rates is a fair bit below where it is today, and that by the end of next year we can, as long as we are hitting our marks on getting inflation back on path to 2%, I think that it's realistic that rates can come down a fair amount,",NA,Austan Goolsbee,Fed,NA,Centrist,Chicago,No,60,Yes
+2025-12-17T00:00:00Z,"I still think we're probably, you know, maybe we're 50 to 100 basis points off of neutral",NA,Christopher Waller,Fed,NA,Dovish,Board of governors,Yes,25,Yes
+2025-12-12T00:00:00Z,I would prefer to be on a slightly more restrictive stance,NA,Beth Hammack,Fed,NA,Hawkish,Cleveland,Yes,75,Yes
+2025-12-12T00:00:00Z,"I see an economy that is showing momentum and inflation that is too hot, suggesting that policy is not overly restrictive",NA,Jeffrey Schmid,Fed,NA,Hawk,Kansas City,Yes,100,Yes
 2025-12-10T00:00:00Z,We are well positioned to wait to see how the economy evolves.,Powell sets up the FOMC for an extended hold.,Jerome Powell,Fed,NA,Hawkish,Chair,Yes,75,Yes
 2025-11-24T00:00:00Z,"My concern is mainly labor market, in terms of our dual mandate. So I’m advocating for a rate cut at the next meeting. You may see a more of a meeting-by-meeting approach once you get to January.",Waller opens to a pause after December.,Christopher Waller,Fed,NA,Dovish,Board of governors,Yes,25,Yes
 2025-11-22T00:00:00Z,"I have not made a decision, I don’t make a decision before I actually get to the meeting.",Collins softens her earlier opposition to a December rate reduction.,Susan Collins,Fed,NA,Centrist,Boston,Yes,50,Yes
@@ -459,6 +470,12 @@ Date,Quote,Significance,Central Banker,geo,Source..link,Stance,Position,Voter,Sc
 2024-05-20T00:00:00Z,This lag suggests that the large increase in market rents during the pandemic is still being passed through to existing rents and may keep housing services inflation elevated for a while longer.,Jefferson is pushing back on Fed chair Jay Powell's narrative that low market rents are going to be an important source of disinflation in the near future.,Philip Jefferson,Fed,NA,NA,NA,NA,NA,NA
 2024-05-08T00:00:00Z,The recent upward surprises to activity and inflation suggest the likely need to keep policy at its current level until we have greater confidence that inflation is moving sustainably toward 2% [...] [I] believe this will take more time than previously thought.,,Susan Collins,Fed,NA,NA,NA,NA,NA,NA
 NA,NA,NA,NA,Fed,NA,NA,NA,NA,NA,NA
+2026-01-08T00:00:00Z,"If (inflation) continues like this, there are no reasons to change monetary policy.",NA,Alvaro Santos Pereira,ECB,NA,Centrist,"Governor, national central bank",Yes,50,Yes
+2025-12-24T00:00:00Z,We remain flexible and ready to step in should future developments warrant fresh action,NA,Peter Kažimír,ECB,NA,Centrist,"Governor, national central bank",Yes,50,Yes
+2025-12-24T00:00:00Z,"There are risks in both directions on inflation, but particularly to the downside. We will therefore be as agile as necessary at each of our next meetings.",NA,François Villeroy de Galhau,ECB,NA,Dovish,"Governor, national central bank",No,25,Yes
+2025-12-23T00:00:00Z,We have to preserve optionality and stand ready to move our policy rates in either direction,NA,Yannis Stournaras,ECB,NA,Centrist,"Governor, national central bank",No,50,Yes
+2025-12-22T00:00:00Z,"At the moment, no interest-rate increase is to be expected in the foreseeable future.",NA,Isabel Schnabel,ECB,NA,Centrist,"Member, executive board",Yes,50,Yes
+2025-12-22T00:00:00Z,"We have inflation — headline and core — both now and in the near future, and mid-term, close to the 2% level.",NA,Gediminas Šimkus,ECB,NA,Centrist,"Governor, national central bank",Yes,50,Yes
 2025-12-10T00:00:00Z,"In the last projection exercises, we have upgraded our projections. My suspicion is that we might do that again in December.",Lagarde suggests that the next ECB meeting will have a hawkish tone.,Christine Lagarde,ECB,NA,Hawkish,President,Yes,75,Yes
 2025-12-10T00:00:00Z,The latest projections – from September – and the incoming data that I have seen so far lead me to feel confident that inflation will be at target over the medium term.,NA,Gabriel Makhlouf,ECB,NA,Centrist,"Governor, national central bank",Yes,50,Yes
 2025-12-10T00:00:00Z,[There has been] some pick-up in [inflation] momentum recently.,NA,Mārtiņš Kazāks,ECB,NA,Centrist,"Governor, national central bank",No,50,Yes
@@ -1144,6 +1161,8 @@ NA,,,Swati Dhingra,BoE,NA,NA,NA,NA,NA,NA
 NA,,,Sarah Breeden,BoE,NA,NA,NA,NA,NA,NA
 NA,,,Jonathan Haskel,BoE,NA,NA,NA,NA,NA,NA
 NA,,,Catherine Mann,BoE,NA,NA,NA,NA,NA,NA
+2026-01-05T00:00:00Z,We will keep raising rates in line with improvement in the economy and inflation.,Ueda signals that more hikes are coming.,Kazuo Ueda,BoJ,NA,Hawkish,Governor,Yes,75,Yes
+2025-12-25T00:00:00Z,"Amid tightening labor market conditions, firms' wage- and price-setting behavior has changed significantly in recent years, and the achievement of the 2 percent price stability target, accompanied by wage increases, is steadily approaching.",NA,Kazuo Ueda,BoJ,NA,Hawkish,Governor,Yes,75,Yes
 2025-12-01T00:00:00Z,The Bank considers that the likelihood of the baseline scenario for economic activity and prices being realized is gradually increasing.,Ueda hints that another rate increase is coming very soon.,Kazuo Ueda,BoJ,NA,Hawkish,Governor,Yes,75,Yes
 2025-11-27T00:00:00Z,"The BOJ must carefully examine how various economic channels ultimately affect economic activity, prices, and use the policy rate as a tool to adjust the degree of monetary accommodation as appropriate.",NA,Asahi Noguchi,BoJ,NA,Hawkish,Policy board,Yes,75,Yes
 2025-11-21T00:00:00Z,"I can't say what month it'll be, but in terms of distance, we're close","Masu, a dove, suggests that he could be supportive of further rate increases in the near term.",Kazuyuki Masu,BoJ,Nikkei https://asia.nikkei.com/editor-s-picks/interview/boj-close-to-decision-to-raise-rates-policy-board-member,Hawkish,Policy board,Yes,75,Yes
