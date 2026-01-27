@@ -57,17 +57,17 @@ UK,2026-03-01,3.75,3.5,0.25,0,0.25,,The BoE remains cautious regarding inflation
 UK,2026-04-01,,3.33333333333333,0.333333333333333,0,0.333333333333333,,,,
 UK,2026-05-01,,3.16666666666667,0.416666666666667,0,0.416666666666667,,,,
 UK,2026-06-01,3.5,3,0.5,0,0.5,,Inflation is back to target and the bank continues to slow loosening,Deflation is delayed and wage growth remains sticky keeping rates on hold,An acceleration in labour market weakness leads to lower inflation and a desire to get to neutral faster
-UK,2026-07-01,,2.83333333333333,0.625,0.0416666666666667,0.666666666666667,,,,
-UK,2026-08-01,,2.66666666666667,0.75,0.0833333333333333,0.833333333333333,,,,
-UK,2026-09-01,,2.5,0.875,0.125,1,,,,
-UK,2026-10-01,,2.33333333333333,1,0.166666666666667,1.16666666666667,,,,
-UK,2026-11-01,,2.16666666666667,1.125,0.208333333333333,1.33333333333333,,,,
-UK,2026-12-01,3.375,2,1.25,0.25,1.5,,"Inflation appears on track to hit target sustainably and the bank feels its way towards neutral, but is not there yet","Inflation rises and wage growth remains above target consistent levels, forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate",Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
-UK,2027-01-01,,1.91666666666667,1.25,0.291666666666667,1.45833333333333,,,,
-UK,2027-02-01,,1.83333333333333,1.25,0.333333333333333,1.41666666666667,,,,
-UK,2027-03-01,,1.75,1.25,0.375,1.375,,,,
-UK,2027-04-01,,1.66666666666667,1.25,0.416666666666667,1.33333333333333,,,,
-UK,2027-05-01,,1.58333333333333,1.25,0.458333333333333,1.29166666666667,,,,
+UK,2026-07-01,,2.83333333333333,0.625,0.0416666666666667,0.5,,,,
+UK,2026-08-01,,2.66666666666667,0.75,0.0833333333333333,0.5,,,,
+UK,2026-09-01,,2.5,0.875,0.125,0.5,,,,
+UK,2026-10-01,,2.33333333333333,1,0.166666666666667,0.5,,,,
+UK,2026-11-01,,2.16666666666667,1.125,0.208333333333333,0.5,,,,
+UK,2026-12-01,3.375,2,1.25,0.25,0.5,,"Inflation appears on track to hit target sustainably and the bank feels its way towards neutral, but is not there yet","Inflation rises and wage growth remains above target consistent levels, forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate",Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
+UK,2027-01-01,,1.91666666666667,1.25,0.291666666666667,0.625,,,,
+UK,2027-02-01,,1.83333333333333,1.25,0.333333333333333,0.75,,,,
+UK,2027-03-01,,1.75,1.25,0.375,0.875,,,,
+UK,2027-04-01,,1.66666666666667,1.25,0.416666666666667,1,,,,
+UK,2027-05-01,,1.58333333333333,1.25,0.458333333333333,1.125,,,,
 UK,2027-06-01,3,1.5,1.25,0.5,1.25,,Inflation has hit target in a sustainable way and the bank achieves neutral rates,Inflation remains above target forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate,Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
 UK,2027-07-01,,1.5,1.20833333333333,0.5,1.29166666666667,,,,
 UK,2027-08-01,,1.5,1.16666666666667,0.5,1.33333333333333,,,,
