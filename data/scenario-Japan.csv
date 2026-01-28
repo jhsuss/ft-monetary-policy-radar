@@ -1,29 +1,26 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-Japan,2025-12-01,0.5,0.25,0.25,0,0.25,,"Given Japan’s recently announced fiscal stimulus programme, the BoJ holds steady in December",The BoJ raises rates faster due to a much weaker yen,
-Japan,2026-01-01,0.75,0.25,0.5,0,0.25,,"After holding in December, the BoJ raises rates in January","The BoJ raises rates faster due to a much weaker yen, or faster growth and stronger indications of a wage-price cycle",Weak economic growth keeps the BoJ on hold
-Japan,2026-02-01,,0.3,0.5,0.05,0.3,,,,
-Japan,2026-03-01,,0.35,0.5,0.1,0.35,,,,
-Japan,2026-04-01,,0.4,0.5,0.15,0.4,,,,
-Japan,2026-05-01,,0.45,0.5,0.2,0.45,,,,
-Japan,2026-06-01,1.125,0.5,0.5,0.25,0.5,,The BoJ assesses that wage growth inflation trends are on track following spring wage negotiations and continues to push rates slowly higher,The BoJ seeks a faster path to neutral as wage and price increases pick up faster than expected,The BoJ holds rates due to weaker wage and inflation developments or increased risks from an external shock
-Japan,2026-07-01,,0.5,0.5,0.291666666666667,0.5,,,,
-Japan,2026-08-01,,0.5,0.5,0.333333333333333,0.5,,,,
-Japan,2026-09-01,,0.5,0.5,0.375,0.5,,,,
-Japan,2026-10-01,,0.5,0.5,0.416666666666667,0.5,,,,
-Japan,2026-11-01,,0.5,0.5,0.458333333333333,0.5,,,,
-Japan,2026-12-01,1.25,0.5,0.5,0.5,0.5,,The BoJ assesses that wage growth inflation trends are on track and achieves the mid point of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates due to weaker wage and inflation developments or increased risks from an external shock
-Japan,2027-01-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-02-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-03-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-04-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-05-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-06-01,1.25,0.5,0.5,0.5,0.5,,The BoJ assesses that wage growth and inflation are on track and achieves the midpoint of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates lower due to weaker wage and inflation developments or increased risks from an external shock such as trade tariffs
-Japan,2027-07-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-08-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-09-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-10-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-11-01,,0.5,0.5,0.5,0.5,,,,
-Japan,2027-12-01,1.25,0.5,0.5,0.5,0.5,1.25,The BoJ assesses that wage growth and inflation are on track and achieves the midpoint of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates lower due to weaker wage and inflation developments or increased risks from an external shock such as trade tariffs
+Japan,2026-03-01,0.75,0.5,0.25,0,0.25,,The BoJ holds as it awaits shunto negotiations figures,The BoJ raises rates faster due to stronger indications of a wage-price cycle,An unforeseen shock forces the BoJ to cut rates
+Japan,2026-04-01,,0.625,0.25,0,0.375,,,,
+Japan,2026-05-01,1,0.75,0.25,0,0.5,,The BoJ takes the next step towards normalisation,"The BoJ raises rates faster due to a much weaker yen, or faster growth and stronger indications of a wage-price cycle",The BoJ keeps rates at current levels as wage settlements disappoint
+Japan,2026-06-01,1.125,0.5,0.5,0.25,0.25,,The BoJ assesses that wage growth inflation trends are on track following spring wage negotiations and continues to push rates slowly higher,The BoJ seeks a faster path to neutral as wage and price increases pick up faster than expected,The BoJ holds rates due to weaker wage and inflation developments or increased risks from an external shock
+Japan,2026-07-01,,0.5,0.541666666666667,0.25,0.291666666666667,,,,
+Japan,2026-08-01,,0.5,0.583333333333333,0.25,0.333333333333333,,,,
+Japan,2026-09-01,,0.5,0.625,0.25,0.375,,,,
+Japan,2026-10-01,,0.5,0.666666666666667,0.25,0.416666666666667,,,,
+Japan,2026-11-01,,0.5,0.708333333333333,0.25,0.458333333333333,,,,
+Japan,2026-12-01,1.375,0.5,0.75,0.25,0.5,,The BoJ assesses that wage growth inflation trends are on track and delivers another rate increase,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates due to weaker wage and inflation developments or increased risks from an external shock
+Japan,2027-01-01,,0.5,0.75,0.291666666666667,0.458333333333333,,,,
+Japan,2027-02-01,,0.5,0.75,0.333333333333333,0.416666666666667,,,,
+Japan,2027-03-01,,0.5,0.75,0.375,0.375,,,,
+Japan,2027-04-01,,0.5,0.75,0.416666666666667,0.333333333333333,,,,
+Japan,2027-05-01,,0.5,0.75,0.458333333333333,0.291666666666667,,,,
+Japan,2027-06-01,1.5,0.5,0.75,0.5,0.25,,The BoJ assesses that wage growth and inflation are on track and achieves the midpoint of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates lower due to weaker wage and inflation developments or increased risks from an external shock such as trade tariffs
+Japan,2027-07-01,,0.5,0.75,0.458333333333333,0.291666666666667,,,,
+Japan,2027-08-01,,0.5,0.75,0.416666666666667,0.333333333333333,,,,
+Japan,2027-09-01,,0.5,0.75,0.375,0.375,,,,
+Japan,2027-10-01,,0.5,0.75,0.333333333333333,0.416666666666667,,,,
+Japan,2027-11-01,,0.5,0.75,0.291666666666667,0.458333333333333,,,,
+Japan,2027-12-01,1.375,0.5,0.75,0.25,0.5,1.375,The BoJ assesses that wage growth and inflation are on track and achieves the midpoint of our neutral rates range,The BoJ becomes confident that wages and prices will reinforce one another and seeks a more normal range for interest rates,The BoJ holds rates lower due to weaker wage and inflation developments or increased risks from an external shock such as trade tariffs
 Japan,2028-01-01,,,,,,,,,
 Japan,2028-02-01,,,,,,,,,
-Japan,2028-03-01,,0,0.75,1,1,1.25,Interest rates converge on a relatively low neutral rate.,A successful emergence from decades of weak growth and inflation would require higher neutral interest rates.,"Japan falls back into its low inflation trap, failing to generate domestic inflation and wage growth."
+Japan,2028-03-01,,0,1,1,1,1.5,Interest rates converge on a relatively low neutral rate.,A successful emergence from decades of weak growth and inflation would require higher neutral interest rates.,"Japan falls back into its low inflation trap, failing to generate domestic inflation and wage growth."
