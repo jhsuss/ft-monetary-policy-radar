@@ -1,27 +1,26 @@
 geo,Month,Central estimate,bottom,lower_band,central_band,upper_band,Long run,commentary_central,commentary_higher,commentary_lower
-UK,2026-02-01,3.75,3.5,0.25,0,0.25,,The BoE holds rates in February after cutting in December as it waits for more evidence on disinflation,Concerns about the persistence of inflation reemerge and the BoE performs a U-turn on rates,A sudden deterioration in the UK economy requires the BoE to stimulate demand
-UK,2026-03-01,3.75,3.5,0.25,0,0.25,,The BoE remains cautious regarding inflation’s expected return to target and holds,Wage growth data surprise on the upside and reignite inflation concerns prompting rates to rise,Inflation returns to target faster than expected allowing the BoE to move quicker to neutral
-UK,2026-04-01,,3.33333333333333,0.333333333333333,0,0.333333333333333,,,,
-UK,2026-05-01,,3.16666666666667,0.416666666666667,0,0.416666666666667,,,,
-UK,2026-06-01,3.5,3,0.5,0,0.5,,Inflation is back to target and the bank continues to slow loosening,Deflation is delayed and wage growth remains sticky keeping rates on hold,An acceleration in labour market weakness leads to lower inflation and a desire to get to neutral faster
-UK,2026-07-01,,2.83333333333333,0.625,0.0416666666666667,0.5,,,,
-UK,2026-08-01,,2.66666666666667,0.75,0.0833333333333333,0.5,,,,
-UK,2026-09-01,,2.5,0.875,0.125,0.5,,,,
-UK,2026-10-01,,2.33333333333333,1,0.166666666666667,0.5,,,,
-UK,2026-11-01,,2.16666666666667,1.125,0.208333333333333,0.5,,,,
-UK,2026-12-01,3.375,2,1.25,0.25,0.5,,"Inflation appears on track to hit target sustainably and the bank feels its way towards neutral, but is not there yet","Inflation rises and wage growth remains above target consistent levels, forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate",Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
-UK,2027-01-01,,1.91666666666667,1.25,0.291666666666667,0.625,,,,
-UK,2027-02-01,,1.83333333333333,1.25,0.333333333333333,0.75,,,,
-UK,2027-03-01,,1.75,1.25,0.375,0.875,,,,
-UK,2027-04-01,,1.66666666666667,1.25,0.416666666666667,1,,,,
-UK,2027-05-01,,1.58333333333333,1.25,0.458333333333333,1.125,,,,
+UK,2026-03-01,3.5,3.25,0.25,0,0.25,,Inflation is expected to return to target faster allowing the BoE to move quicker to neutral,The BoE remains cautious regarding inflation’s expected return to target and holds,
+UK,2026-04-01,3.5,3.25,0.25,0,0.25,,The BoE hold rates as it waits to see that inflation is indeed falling back to target as expected,Lingering concern around wage growth keeps rates higher,Rate-setters look to get to neutral faster with inflation returning to target and unemployment still ticking up
+UK,2026-05-01,,3,0.375,0,0.375,,,,
+UK,2026-06-01,3.25,2.75,0.5,0,0.5,,Inflation is back to target and the bank heads further to neutral,"Disinflation is delayed and wage growth remains sticky, keeping rates higher",An acceleration in labour market weakness leads to lower inflation and a desire to get to neutral faster
+UK,2026-07-01,,2.625,0.583333333333333,0.0416666666666667,0.541666666666667,,,,
+UK,2026-08-01,,2.5,0.666666666666667,0.0833333333333333,0.583333333333333,,,,
+UK,2026-09-01,,2.375,0.75,0.125,0.625,,,,
+UK,2026-10-01,,2.25,0.833333333333333,0.166666666666667,0.666666666666667,,,,
+UK,2026-11-01,,2.125,0.916666666666667,0.208333333333333,0.708333333333333,,,,
+UK,2026-12-01,3.125,2,1,0.25,0.75,,Inflation appears on track to hit target sustainably and the bank feels its way towards neutral,"Inflation rises and wage growth remains above target consistent levels, forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate",Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
+UK,2027-01-01,,1.91666666666667,1.04166666666667,0.291666666666667,0.833333333333333,,,,
+UK,2027-02-01,,1.83333333333333,1.08333333333333,0.333333333333333,0.916666666666667,,,,
+UK,2027-03-01,,1.75,1.125,0.375,1,,,,
+UK,2027-04-01,,1.66666666666667,1.16666666666667,0.416666666666667,1.08333333333333,,,,
+UK,2027-05-01,,1.58333333333333,1.20833333333333,0.458333333333333,1.16666666666667,,,,
 UK,2027-06-01,3,1.5,1.25,0.5,1.25,,Inflation has hit target in a sustainable way and the bank achieves neutral rates,Inflation remains above target forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate,Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
-UK,2027-07-01,,1.5,1.20833333333333,0.5,1.29166666666667,,,,
-UK,2027-08-01,,1.5,1.16666666666667,0.5,1.33333333333333,,,,
-UK,2027-09-01,,1.5,1.125,0.5,1.375,,,,
-UK,2027-10-01,,1.5,1.08333333333333,0.5,1.41666666666667,,,,
-UK,2027-11-01,,1.5,1.04166666666667,0.5,1.45833333333333,,,,
-UK,2027-12-01,2.75,1.5,1,0.5,1.5,2.75,Inflation has hit target in a sustainable way and the BoE has achieved a broadly neutral interest rate,Inflation remains above target forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate,Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
+UK,2027-07-01,,1.5,1.25,0.5,1.25,,,,
+UK,2027-08-01,,1.5,1.25,0.5,1.25,,,,
+UK,2027-09-01,,1.5,1.25,0.5,1.25,,,,
+UK,2027-10-01,,1.5,1.25,0.5,1.25,,,,
+UK,2027-11-01,,1.5,1.25,0.5,1.25,,,,
+UK,2027-12-01,3,1.5,1.25,0.5,1.25,3,Inflation has hit target in a sustainable way and the BoE has achieved a broadly neutral interest rate,Inflation remains above target forcing the bank to hold rates higher for longer and reconsider estimates of the neutral rate,Weak growth or an external shock forces the bank to cut rates to stimulate the economy and keep unemployment in check
 UK,2028-01-01,,,,,,,,,
 UK,2028-02-01,,,,,,,,,
 UK,2028-03-01,,1.25,1,1,1,2.75,"Interest rates converge on a rate similar to the expected inflation rate and lower than nominal GDP, due to stronger public finances and lower potential growth rates. The path towards these rates might be bumpy with long periods outside the range. Hence the low probability for a central scenario.",Stronger growth or a growing lack of confidence in UK public finances would require a higher neutral interest rate. Strong growth because plentiful potential alternative investments allow savers to demand higher returns and weak public finances because government needs to attract more savings.,"Weak growth and persistently low investment generates few outside options for savings, helping the longer-term interest rate to fall to low levels."
