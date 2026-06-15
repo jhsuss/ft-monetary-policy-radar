@@ -1,4 +1,9 @@
 Date,Quote,Significance,Central Banker,geo,Source..link,Stance,Position,Voter,Scale value,Active
+2026-06-04T00:00:00Z,"Our inflation numbers have probably crept up into the three and a half percent range, which nobody likes. Is it temporary...or do we act? Do we say, okay, now it’s time to raise rates a quarter or two and see if we can’t tamp this thing down?",NA,Jeffrey Schmid,Fed,NA,Hawkish,Kansas City,No,75,Yes
+2026-06-04T00:00:00Z,"We are prepared to respond either way, whatever the economy brings.",NA,Mary Daly,Fed,NA,Hawkish,San Francisco,No,75,Yes
+2026-06-03T00:00:00Z,I am increasingly concerned that higher interest rates could be necessary later this year to fully restore price stability and appropriately balance both sides of the Fed’s dual mandate.,NA,Lorie Logan,Fed,NA,Hawkish,Dallas,Yes,75,Yes
+2026-06-03T00:00:00Z,"I also don’t see an obvious kind of direction where we would go in the future,",Williams hints that he sees the risks as balanced and that the Fed's next move could be a hike.,John Williams,Fed,NA,Hawkish,President,Yes,75,Yes
+2026-06-02T00:00:00Z,"If recent data trends continue, it may soon be appropriate for policy to act to address the growing risks of persistently elevated inflation.",NA,Beth Hammack,Fed,NA,Hawkish,Cleveland,Yes,75,Yes
 2026-05-29T00:00:00Z,"My primary concern is inflation, which is too hot and has been above target for too long.",NA,Jeffrey Schmid,Fed,NA,Hawkish,Kansas City,Yes,75,Yes
 2026-05-29T00:00:00Z,I think it’s premature for me to conclude we need to be raising rates right away.,NA,Neel Kashkari,Fed,NA,Centrist,Minneapolis,Yes,50,Yes
 2026-05-29T00:00:00Z,I appreciated and supported keeping the language from the March post-meeting statement about additional policy rate adjustments [...] the more persistent higher oil prices are [ . . . ] the more likely I will consider shifting my approach to thinking about the balance of risks.,NA,Michelle Bowman,Fed,NA,Dovish,Board of governors,Yes,25,Yes
@@ -559,6 +564,7 @@ Date,Quote,Significance,Central Banker,geo,Source..link,Stance,Position,Voter,Sc
 2024-05-08T00:00:00Z,The recent upward surprises to activity and inflation suggest the likely need to keep policy at its current level until we have greater confidence that inflation is moving sustainably toward 2% [...] [I] believe this will take more time than previously thought.,,Susan Collins,Fed,NA,NA,NA,NA,NA,NA
 NA,NA,NA,NA,Fed,NA,NA,NA,NA,NA,NA
 2026-06-01T00:00:00Z,I think it’s better to act sooner rather than later so that we don’t have much greater second-order effects later on.,NA,Alvaro Santos Pereira,ECB,NA,Centrist,"Governor, national central bank",Yes,50,Yes
+2026-05-31T00:00:00Z,"At some point, we cannot let the market do all the lifting. We need to take a stance.",Wunsch says that a peace deal would not derail an ECB hike.,Pierre Wunsch,ECB,NA,Centrist,"Governor, national central bank",No,50,Yes
 2026-05-29T00:00:00Z,The forward-looking picture seems to call for a recalibration of the monetary policy stance to counter the risk of persistent inflationary tensions [...] not being tied to a predetermined path remains essential.,Panetta says that a June hike would not necessarily imply additional rate increases down the line.,Fabio Panetta,ECB,NA,Dovish,"Governor, national central bank",No,50,Yes
 2026-05-29T00:00:00Z,The cost of acting too late can exceed the cost of acting somewhat earlier.,NA,Dimitar Radev,ECB,NA,Centrist,"Governor, national central bank",Yes,50,Yes
 2026-05-27T00:00:00Z,We will take whatever action we need to take to achieve our 2% target so that’s why markets have assumed that.,NA,Gabriel Makhlouf,ECB,NA,Centrist,"Governor, national central bank",Yes,50,Yes
@@ -1232,6 +1238,7 @@ NA,NA,NA,NA,Fed,NA,NA,NA,NA,NA,NA
 2024-05-22T00:00:00Z,We're currently seeing a slight revival of the economy in the euro area [...] there’s reason for hope that we'll succeed in returning to price stability without experiencing a recession.,,Isabel Schnabel,ECB,NA,NA,NA,NA,NA,NA
 NA,,,Pablo Hernandez de Cos,ECB,NA,NA,NA,NA,NA,NA
 NA,,,Pierre Wunsch,ECB,NA,NA,NA,NA,NA,NA
+2026-06-03T00:00:00Z,I think the case for hiking rates grows as the conflict wears on and believe a tightening in monetary policy over the next few weeks or months may be necessary.,Greene hints that she will vote for a rate increase at the next meeting.,Megan Greene,BoE,NA,Hawkish,External member,Yes,75,Yes
 2026-05-29T00:00:00Z,I don't think we've had news since the April meeting in terms of response to the economy that particularly changes my view.,"Bailey says that he still believes the UK economy is in the MPC's ""scenario B"".",Andrew Bailey,BoE,NA,Centrist,Governor,Yes,50,Yes
 2026-05-22T00:00:00Z,"We don’t need to be super reactive now, given how much restrictiveness there is coming already.",NA,Alan Taylor,BoE,NA,Dove,External member,Yes,0,Yes
 2026-05-20T00:00:00Z,We have had sufficient tightening in the conditions that matter for businesses and households to be able to offset the current risk of second-round effects.,NA,Sarah Breeden,BoE,NA,Dovish,Deputy governor,Yes,25,Yes
@@ -1405,6 +1412,7 @@ NA,,,Swati Dhingra,BoE,NA,NA,NA,NA,NA,NA
 NA,,,Sarah Breeden,BoE,NA,NA,NA,NA,NA,NA
 NA,,,Jonathan Haskel,BoE,NA,NA,NA,NA,NA,NA
 NA,,,Catherine Mann,BoE,NA,NA,NA,NA,NA,NA
+2026-06-03T00:00:00Z,"Even if the situation surrounding the Middle East remains unclear, we must discuss the pros and cons of raising the policy rate if we judge that upside risks to prices outweigh downside risks to economic activity.",Ueda hints at a June rate hike.,Kazuo Ueda,BoJ,NA,Centrist,Governor,Yes,50,Yes
 2026-05-27T00:00:00Z,"If inflation expectations are already high and wages are accelerating, the risk of second-round effects is large.",NA,Kazuo Ueda,BoJ,NA,Centrist,Governor,Yes,50,Yes
 2026-05-26T00:00:00Z,"The timing and pace of such adjustments will be carefully considered by analysing how developments in the Middle East affect Japan's economy and prices, and by assessing the likelihood of our baseline scenario being realised as well as the associated risks",Himino suggests that the Gulf war could further influence the timing of BoJ normalisation.,Ryozo Himino,BoJ,NA,Dovish,Deputy governor,Yes,25,Yes
 2026-05-21T00:00:00Z,I therefore believe it is reasonable for the Bank to raise the policy interest rate at an appropriate pace to address high inflation while also considering the trade-offs for the economy.,"Koeda, who voted to hold at the last meeting, suggests that a hike is necessary.",Junko Koeda,BoJ,NA,Hawkish,Policy board,Yes,75,Yes
